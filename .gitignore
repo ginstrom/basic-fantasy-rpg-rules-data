@@ -2,4 +2,4 @@ manual/*
 .venv/
 __pycache__/
 *.pyc
-data/*.json
+dev-plan/*

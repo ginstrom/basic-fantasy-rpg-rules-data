@@ -1,0 +1,232 @@
+[
+  {
+    "item": "Backpack (Standard or Halfling)",
+    "price": "4 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Belt Pouch",
+    "price": "1 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Bit and bridle",
+    "price": "15 sp",
+    "weight": "3"
+  },
+  {
+    "item": "Candles, 12",
+    "price": "1 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Chalk, small bag of pieces",
+    "price": "2 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Cloak",
+    "price": "2 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Clothing, common outfit",
+    "price": "4 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Glass bottle or vial",
+    "price": "1 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Grappling Hook",
+    "price": "2 gp",
+    "weight": "4"
+  },
+  {
+    "item": "Holy Symbol",
+    "price": "25 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Holy Water, per vial",
+    "price": "10 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Horseshoes & shoeing",
+    "price": "1 gp",
+    "weight": "10"
+  },
+  {
+    "item": "Ink, per jar",
+    "price": "8 gp",
+    "weight": "½"
+  },
+  {
+    "item": "Iron Spikes, 12",
+    "price": "1 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Ladder, 10 ft.",
+    "price": "1 gp",
+    "weight": "20"
+  },
+  {
+    "item": "Lantern",
+    "price": "5 gp",
+    "weight": "2"
+  },
+  {
+    "item": "Lantern, Bullseye",
+    "price": "14 gp",
+    "weight": "3"
+  },
+  {
+    "item": "Lantern, Hooded",
+    "price": "8 gp",
+    "weight": "2"
+  },
+  {
+    "item": "Manacles (without padlock)",
+    "price": "6 gp",
+    "weight": "4"
+  },
+  {
+    "item": "Map or scroll case",
+    "price": "1 gp",
+    "weight": "½"
+  },
+  {
+    "item": "Mirror, small metal",
+    "price": "7 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Oil (per flask)",
+    "price": "1 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Padlock (with 2 keys)",
+    "price": "12 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Paper (per sheet)",
+    "price": "1 gp",
+    "weight": "**"
+  },
+  {
+    "item": "Pole, 10' wooden",
+    "price": "1 gp",
+    "weight": "10"
+  },
+  {
+    "item": "Quill",
+    "price": "1 sp",
+    "weight": "**"
+  },
+  {
+    "item": "Quill Knife",
+    "price": "1 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Quiver or Bolt case",
+    "price": "1 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Rations, Dry, one week",
+    "price": "10 gp",
+    "weight": "14"
+  },
+  {
+    "item": "Rope, Hemp (per 50 ft.)",
+    "price": "1 gp",
+    "weight": "5"
+  },
+  {
+    "item": "Rope, Silk (per 50 ft.)",
+    "price": "10 gp",
+    "weight": "2"
+  },
+  {
+    "item": "Sack, Large",
+    "price": "1 gp",
+    "weight": "*"
+  },
+  {
+    "item": "Sack, Small",
+    "price": "5 sp",
+    "weight": "*"
+  },
+  {
+    "item": "Saddle, Pack",
+    "price": "5 gp",
+    "weight": "15"
+  },
+  {
+    "item": "Saddle, Riding",
+    "price": "10 gp",
+    "weight": "35"
+  },
+  {
+    "item": "Saddlebags, pair",
+    "price": "4 gp",
+    "weight": "7"
+  },
+  {
+    "item": "Spellbook (128 pages)",
+    "price": "25 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Tent, Large (ten men)",
+    "price": "25 gp",
+    "weight": "20"
+  },
+  {
+    "item": "Tent, Small (one man)",
+    "price": "5 gp",
+    "weight": "10"
+  },
+  {
+    "item": "Thieves' picks and tools",
+    "price": "25 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Tinderbox, flint and steel",
+    "price": "3 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Torches, 6",
+    "price": "1 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Whetstone",
+    "price": "1 gp",
+    "weight": "1"
+  },
+  {
+    "item": "Whistle",
+    "price": "1 gp",
+    "weight": "**"
+  },
+  {
+    "item": "Wineskin/Waterskin",
+    "price": "1 gp",
+    "weight": "2"
+  },
+  {
+    "item": "Winter blanket",
+    "price": "1 gp",
+    "weight": "3"
+  }
+]

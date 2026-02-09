@@ -1,0 +1,142 @@
+[
+  {
+    "vehicle": "Chariot",
+    "length_x_width": "15' x 6'",
+    "weight": "300",
+    "cargo": "750 lbs",
+    "movement": "60' (10')",
+    "hardness_hp": "10 / 10",
+    "cost_gp": "400",
+    "category": "land"
+  },
+  {
+    "vehicle": "Coach",
+    "length_x_width": "30' x 8'",
+    "weight": "1,000",
+    "cargo": "2,000 lbs",
+    "movement": "40' (15')",
+    "hardness_hp": "6 / 12",
+    "cost_gp": "1,500",
+    "category": "land"
+  },
+  {
+    "vehicle": "Wagon",
+    "length_x_width": "35' x 8'",
+    "weight": "2,000",
+    "cargo": "4,000 lbs",
+    "movement": "20' (15')",
+    "hardness_hp": "6 / 16",
+    "cost_gp": "500",
+    "category": "land"
+  },
+  {
+    "vehicle": "Canoe",
+    "length_x_width": "15' x 4'",
+    "cargo": "½ ton",
+    "crew": "1",
+    "movement": "40'",
+    "miles_day": "(5')",
+    "hardness_hp": "30",
+    "cost_gp": "4 / 4",
+    "category": "water"
+  },
+  {
+    "vehicle": "Caravel",
+    "length_x_width": "55' x 15'",
+    "cargo": "75 tons",
+    "crew": "10",
+    "movement": "20'",
+    "miles_day": "(20')",
+    "hardness_hp": "42",
+    "cost_gp": "8 / 75",
+    "category": "water"
+  },
+  {
+    "vehicle": "Carrack",
+    "length_x_width": "60' x 20'",
+    "cargo": "135 tons",
+    "crew": "20",
+    "movement": "30'",
+    "miles_day": "(30')",
+    "hardness_hp": "48",
+    "cost_gp": "10 / 120",
+    "category": "water"
+  },
+  {
+    "vehicle": "Galley, Small",
+    "length_x_width": "100' x 15'",
+    "cargo": "210 tons",
+    "crew": "90",
+    "movement": "20'",
+    "miles_day": "(20')",
+    "hardness_hp": "36 / 24",
+    "cost_gp": "8 / 75",
+    "category": "water"
+  },
+  {
+    "vehicle": "Galley, Large",
+    "length_x_width": "120' x 20'",
+    "cargo": "375 tons",
+    "crew": "160",
+    "movement": "30'",
+    "miles_day": "(25')",
+    "hardness_hp": "42 / 24",
+    "cost_gp": "10 / 120",
+    "category": "water"
+  },
+  {
+    "vehicle": "Longship",
+    "length_x_width": "110' x 15'",
+    "cargo": "10 tons",
+    "crew": "70",
+    "movement": "30'",
+    "miles_day": "(25')",
+    "hardness_hp": "42 / 24",
+    "cost_gp": "9 / 110",
+    "category": "water"
+  },
+  {
+    "vehicle": "Raft/Barge",
+    "length_x_width": "per 10' x 10'",
+    "cargo": "1 ton",
+    "crew": "2",
+    "movement": "40'",
+    "miles_day": "(10')",
+    "hardness_hp": "18",
+    "cost_gp": "6 / 12",
+    "category": "water"
+  },
+  {
+    "vehicle": "Riverboat",
+    "length_x_width": "50' x 20'",
+    "cargo": "50 tons",
+    "crew": "10",
+    "movement": "20'",
+    "miles_day": "(20')",
+    "hardness_hp": "30",
+    "cost_gp": "8 / 30",
+    "category": "water"
+  },
+  {
+    "vehicle": "Rowboat",
+    "length_x_width": "15' x 6'",
+    "cargo": "1 ton",
+    "crew": "1",
+    "movement": "30'",
+    "miles_day": "(10')",
+    "hardness_hp": "24",
+    "cost_gp": "6 / 8",
+    "category": "water"
+  },
+  {
+    "vehicle": "Sailboat",
+    "length_x_width": "40' x 8'",
+    "cargo": "5 tons",
+    "crew": "1",
+    "movement": "40'",
+    "miles_day": "(15')",
+    "hardness_hp": "36",
+    "cost_gp": "7 / 20",
+    "category": "water"
+  }
+]

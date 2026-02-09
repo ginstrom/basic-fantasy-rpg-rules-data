@@ -1,0 +1,32 @@
+[
+  {
+    "armor_type": "No Armor",
+    "price": "0 gp",
+    "weight": "0",
+    "ac": "11"
+  },
+  {
+    "armor_type": "Leather Armor",
+    "price": "20 gp",
+    "weight": "15",
+    "ac": "13"
+  },
+  {
+    "armor_type": "Chain Mail",
+    "price": "60 gp",
+    "weight": "40",
+    "ac": "15"
+  },
+  {
+    "armor_type": "Plate Mail",
+    "price": "300 gp",
+    "weight": "50",
+    "ac": "17"
+  },
+  {
+    "armor_type": "Shield",
+    "price": "7 gp",
+    "weight": "5",
+    "ac": "+1"
+  }
+]

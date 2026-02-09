@@ -1,0 +1,474 @@
+{
+  "dungeon": [
+    {
+      "table_name": "Dungeon Encounters #1",
+      "source_section": "Dungeon Encounters",
+      "headers": [
+        "Roll 1d12",
+        "Level 1",
+        "Level 2",
+        "Level 3"
+      ],
+      "rows": [
+        [
+          "1",
+          "Bee, Giant",
+          "Beetle, Giant Bombardier",
+          "Ant, Giant"
+        ],
+        [
+          "2",
+          "Goblin",
+          "Fly, Giant",
+          "Ape, Carnivorous"
+        ],
+        [
+          "3",
+          "Jelly, Green*",
+          "Ghoul",
+          "Beetle, Giant Tiger"
+        ],
+        [
+          "4",
+          "Kobold",
+          "Gnoll",
+          "Bugbear"
+        ],
+        [
+          "5",
+          "NPC Party: Adventurer",
+          "Jelly, Gray",
+          "Doppleganger"
+        ],
+        [
+          "6",
+          "NPC Party: Bandit",
+          "Hobgoblin",
+          "Gargoyle*"
+        ],
+        [
+          "7",
+          "Orc",
+          "Lizard Man",
+          "Jelly, Glass"
+        ],
+        [
+          "8",
+          "Stirge",
+          "NPC Party: Adventurer",
+          "Lycanthrope, Wererat*"
+        ],
+        [
+          "9",
+          "Skeleton",
+          "Snake, Pit Viper",
+          "Ogre"
+        ],
+        [
+          "10",
+          "Snake, Cobra",
+          "Spider, Giant Black Widow",
+          "Shadow*"
+        ],
+        [
+          "11",
+          "Spider, Giant Crab",
+          "Lizard Man, Subterranean",
+          "Tentacle Worm"
+        ],
+        [
+          "12",
+          "Wolf",
+          "Zombie",
+          "Wight*"
+        ],
+        [
+          "Roll 1d12",
+          "Level 4-5",
+          "Level 6-7",
+          "Level 8+"
+        ],
+        [
+          "1",
+          "Bear, Cave",
+          "Basilisk",
+          "Basilisk, Greater*"
+        ],
+        [
+          "2",
+          "Caecilia, Giant",
+          "Jelly, Black",
+          "Chimera"
+        ],
+        [
+          "3",
+          "Cockatrice",
+          "Caecilia, Giant",
+          "Deceiver, Greater"
+        ],
+        [
+          "4",
+          "Doppleganger",
+          "Deceiver",
+          "Giant, Hill"
+        ],
+        [
+          "5",
+          "Jelly, Gray",
+          "Hydra",
+          "Giant, Stone"
+        ],
+        [
+          "6",
+          "Hellhound",
+          "Rust Monster*",
+          "Hydra"
+        ],
+        [
+          "7",
+          "Rust Monster*",
+          "Lycanthrope, Weretiger*",
+          "Jelly, Black"
+        ],
+        [
+          "8",
+          "Lycanthrope, Werewolf*",
+          "Mummy*",
+          "Lycanthrope, Wereboar*"
+        ],
+        [
+          "9",
+          "Minotaur",
+          "Owlbear",
+          "Purple Worm"
+        ],
+        [
+          "10",
+          "Jelly, Ochre*",
+          "Scorpion, Giant",
+          "Salamander, Flame*"
+        ],
+        [
+          "11",
+          "Owlbear",
+          "Spectre*",
+          "Salamander, Frost*"
+        ],
+        [
+          "12",
+          "Wraith*",
+          "Troll",
+          "Vampire*"
+        ]
+      ]
+    }
+  ],
+  "wilderness": [
+    {
+      "table_name": "Wilderness Encounters #1",
+      "source_section": "Wilderness Encounters",
+      "headers": [
+        "Roll 2d8",
+        "Desert or Barren",
+        "Grassland",
+        "Inhabited Territories"
+      ],
+      "rows": [
+        [
+          "2",
+          "Dragon, Desert",
+          "Dragon, Plains",
+          "Dragon, Cloud"
+        ],
+        [
+          "3",
+          "Hellhound",
+          "Troll",
+          "Ghoul"
+        ],
+        [
+          "4",
+          "Giant, Fire",
+          "Fly, Giant",
+          "Bugbear"
+        ],
+        [
+          "5",
+          "Purple Worm",
+          "Scorpion, Giant",
+          "Goblin"
+        ],
+        [
+          "6",
+          "Fly, Giant",
+          "NPC Party: Bandit",
+          "Centaur"
+        ],
+        [
+          "7",
+          "Scorpion, Giant",
+          "Lion",
+          "NPC Party: Bandit"
+        ],
+        [
+          "8",
+          "Camel",
+          "Boar, Wild",
+          "NPC Party: Merchant"
+        ],
+        [
+          "9",
+          "Spider, Giant Tarantula",
+          "NPC Party: Merchant",
+          "NPC Party: Pilgrim"
+        ],
+        [
+          "10",
+          "NPC Party: Merchant",
+          "Wolf",
+          "NPC Party: Noble"
+        ],
+        [
+          "11",
+          "Hawk",
+          "Bee, Giant",
+          "Dog"
+        ],
+        [
+          "12",
+          "NPC Party: Bandit",
+          "Gnoll",
+          "Gargoyle*"
+        ],
+        [
+          "13",
+          "Ogre",
+          "Goblin",
+          "Gnoll"
+        ],
+        [
+          "14",
+          "Griffon",
+          "Flicker Beast",
+          "Ogre"
+        ],
+        [
+          "15",
+          "Gnoll",
+          "Wolf, Dire",
+          "Minotaur"
+        ],
+        [
+          "16",
+          "Dragon, Mountain",
+          "Giant, Hill",
+          "Vampire*"
+        ]
+      ]
+    },
+    {
+      "table_name": "Wilderness Encounters #2",
+      "source_section": "Wilderness Encounters",
+      "headers": [
+        "Roll 2d8",
+        "Jungle",
+        "Mountains or Hills",
+        "Ocean"
+      ],
+      "rows": [
+        [
+          "2",
+          "Dragon, Forest",
+          "Dragon, Ice",
+          "Dragon, Sea"
+        ],
+        [
+          "3",
+          "NPC Party: Bandit",
+          "Roc (1d6: 1-3 Large, 4-5 Huge, 6 Giant)",
+          "Hydra"
+        ],
+        [
+          "4",
+          "Goblin",
+          "Deceiver",
+          "Whale, Sperm"
+        ],
+        [
+          "5",
+          "Hobgoblin",
+          "Lycanthrope, Werewolf*",
+          "Crocodile, Giant"
+        ],
+        [
+          "6",
+          "Centipede, Giant",
+          "Mountain Lion",
+          "Crab, Giant"
+        ],
+        [
+          "7",
+          "Snake, Giant Python",
+          "Wolf",
+          "Whale, Killer"
+        ],
+        [
+          "8",
+          "Elephant",
+          "Spider, Giant Crab",
+          "Octopus, Giant"
+        ],
+        [
+          "9",
+          "Antelope",
+          "Hawk",
+          "Shark, Mako"
+        ],
+        [
+          "10",
+          "Jaguar",
+          "Orc",
+          "NPC Party: Merchant"
+        ],
+        [
+          "11",
+          "Stirge",
+          "Bat, Giant",
+          "NPC Party: Buccaneer (Pirate)"
+        ],
+        [
+          "12",
+          "Beetle, Giant Tiger",
+          "Hawk, Giant",
+          "Shark, Bull"
+        ],
+        [
+          "13",
+          "Caecilia, Giant",
+          "Giant, Hill",
+          "Roc (1d8: 1-5 Huge, 6-8 Giant)"
+        ],
+        [
+          "14",
+          "Shadow*",
+          "Chimera",
+          "Shark, Great White"
+        ],
+        [
+          "15",
+          "NPC Party: Merchant",
+          "Wolf, Dire",
+          "Mermaid"
+        ],
+        [
+          "16",
+          "Lycanthrope, Weretiger*",
+          "Dragon, Mountain",
+          "Sea Serpent"
+        ]
+      ]
+    },
+    {
+      "table_name": "Wilderness Encounters #3",
+      "source_section": "Wilderness Encounters",
+      "headers": [
+        "Roll 2d8",
+        "River or Riverside",
+        "Swamp",
+        "Woods or Forest"
+      ],
+      "rows": [
+        [
+          "2",
+          "Dragon, Swamp",
+          "Dragon, Swamp",
+          "Dragon, Forest"
+        ],
+        [
+          "3",
+          "Fish, Giant Piranha",
+          "Shadow*",
+          "Alicorn (see Unicorn)"
+        ],
+        [
+          "4",
+          "Stirge",
+          "Troll",
+          "Treant"
+        ],
+        [
+          "5",
+          "Fish, Giant Bass",
+          "Lizard, Giant Draco",
+          "Orc"
+        ],
+        [
+          "6",
+          "NPC Party: Merchant",
+          "Centipede, Giant",
+          "Boar, Wild"
+        ],
+        [
+          "7",
+          "Lizard Man",
+          "Leech, Giant",
+          "Bear, Black"
+        ],
+        [
+          "8",
+          "Crocodile",
+          "Lizard Man",
+          "Hawk, Giant"
+        ],
+        [
+          "9",
+          "Frog, Giant",
+          "Crocodile",
+          "Antelope"
+        ],
+        [
+          "10",
+          "Fish, Giant Catfish",
+          "Stirge",
+          "Wolf"
+        ],
+        [
+          "11",
+          "NPC Party: Buccaneer",
+          "Orc",
+          "Ogre"
+        ],
+        [
+          "12",
+          "Troll",
+          "Toad, Giant (see Frog, Giant)",
+          "Bear, Grizzly"
+        ],
+        [
+          "13",
+          "Jaguar",
+          "Lizard Man, Subterranean",
+          "Wolf, Dire"
+        ],
+        [
+          "14",
+          "Nixie",
+          "Blood Rose",
+          "Giant, Hill"
+        ],
+        [
+          "15",
+          "Water Termite, Giant",
+          "Hangman Tree",
+          "Owlbear"
+        ],
+        [
+          "16",
+          "Dragon, Forest",
+          "Basilisk",
+          "Unicorn"
+        ]
+      ]
+    }
+  ]
+}

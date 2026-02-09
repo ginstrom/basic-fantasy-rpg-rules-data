@@ -1,0 +1,1194 @@
+[
+  {
+    "section": "Magic Item Generation",
+    "headers": [
+      "Any",
+      "Weapon or Armor",
+      "Any Exc. Weapons",
+      "Type of Item"
+    ],
+    "rows": [
+      [
+        "01-25",
+        "01-70",
+        "",
+        "Weapon"
+      ],
+      [
+        "26-35",
+        "71-00",
+        "01-12",
+        "Armor"
+      ],
+      [
+        "36-55",
+        "",
+        "13-40",
+        "Potion"
+      ],
+      [
+        "56-85",
+        "",
+        "41-79",
+        "Scroll"
+      ],
+      [
+        "86-90",
+        "",
+        "80-86",
+        "Wand, Staff, or Rod"
+      ],
+      [
+        "91-97",
+        "",
+        "87-96",
+        "Miscellaneous Items"
+      ],
+      [
+        "98-00",
+        "",
+        "97-00",
+        "Rare Items"
+      ]
+    ]
+  },
+  {
+    "section": "Magic Weapons",
+    "headers": [
+      "d%",
+      "Weapon Type"
+    ],
+    "rows": [
+      [
+        "01-02",
+        "Great Axe"
+      ],
+      [
+        "03-09",
+        "Battle Axe"
+      ],
+      [
+        "10-11",
+        "Hand Axe"
+      ],
+      [
+        "12-19",
+        "Shortbow"
+      ],
+      [
+        "20-27",
+        "Shortbow Arrow"
+      ],
+      [
+        "28-31",
+        "Longbow"
+      ],
+      [
+        "32-35",
+        "Longbow Arrow"
+      ],
+      [
+        "36-43",
+        "Light Quarrel"
+      ],
+      [
+        "44-47",
+        "Heavy Quarrel"
+      ],
+      [
+        "48-59",
+        "Dagger"
+      ],
+      [
+        "60-65",
+        "Shortsword"
+      ],
+      [
+        "66-79",
+        "Longsword"
+      ],
+      [
+        "80-81",
+        "Scimitar"
+      ],
+      [
+        "82-83",
+        "Two-Handed Sword"
+      ],
+      [
+        "84-86",
+        "Warhammer"
+      ],
+      [
+        "87-94",
+        "Mace"
+      ],
+      [
+        "95",
+        "Maul"
+      ],
+      [
+        "96",
+        "Pole Arm"
+      ],
+      [
+        "97",
+        "Sling Bullet"
+      ],
+      [
+        "98-00",
+        "Spear"
+      ]
+    ]
+  },
+  {
+    "section": "Magic Weapons",
+    "headers": [
+      "d% Roll",
+      ""
+    ],
+    "rows": [
+      [
+        "Melee",
+        "Missile",
+        "Weapon Bonus"
+      ],
+      [
+        "01-40",
+        "01-46",
+        "+1"
+      ],
+      [
+        "41-50",
+        "47-58",
+        "+2"
+      ],
+      [
+        "51-55",
+        "59-64",
+        "+3"
+      ],
+      [
+        "56-57",
+        "",
+        "+4"
+      ],
+      [
+        "58",
+        "",
+        "+5"
+      ],
+      [
+        "59-75",
+        "65-82",
+        "+1, +2 vs. Special Enemy"
+      ],
+      [
+        "76-85",
+        "83-94",
+        "+1, +3 vs. Special Enemy"
+      ],
+      [
+        "86-95",
+        "",
+        "Roll Again + Special Ability"
+      ],
+      [
+        "96-98",
+        "95-98",
+        "Cursed, -1*"
+      ],
+      [
+        "99-00",
+        "99-00",
+        "Cursed, -2*"
+      ]
+    ]
+  },
+  {
+    "section": "Magic Weapons",
+    "headers": [
+      "1d6",
+      "Special Enemy",
+      "",
+      "1d6",
+      "Special Enemy"
+    ],
+    "rows": [
+      [
+        "1",
+        "Dragons",
+        "",
+        "4",
+        "Regenerators"
+      ],
+      [
+        "2",
+        "Enchanted",
+        "",
+        "5",
+        "Spell Users"
+      ],
+      [
+        "3",
+        "Lycanthropes",
+        "",
+        "6",
+        "Undead"
+      ]
+    ]
+  },
+  {
+    "section": "Magic Weapons",
+    "headers": [
+      "1d20",
+      "Special Ability"
+    ],
+    "rows": [
+      [
+        "01-09",
+        "Casts Light on Command"
+      ],
+      [
+        "10-11",
+        "Charm Person"
+      ],
+      [
+        "12",
+        "Drains Energy"
+      ],
+      [
+        "13-16",
+        "Flames on Command"
+      ],
+      [
+        "17-19",
+        "Locate Objects"
+      ],
+      [
+        "20",
+        "Wishes"
+      ]
+    ]
+  },
+  {
+    "section": "Magic Armor",
+    "headers": [
+      "d%",
+      "Armor Type",
+      "",
+      "d%",
+      "Armor Bonus"
+    ],
+    "rows": [
+      [
+        "01-09",
+        "Leather Armor",
+        "",
+        "01-50",
+        "+1"
+      ],
+      [
+        "10-28",
+        "Chain Mail",
+        "",
+        "51-80",
+        "+2"
+      ],
+      [
+        "29-43",
+        "Plate Mail",
+        "",
+        "81-90",
+        "+3"
+      ],
+      [
+        "44-00",
+        "Shield",
+        "",
+        "91-95",
+        "Cursed *"
+      ],
+      [
+        "",
+        "",
+        "",
+        "96-00",
+        "Cursed, AC 11 **"
+      ]
+    ]
+  },
+  {
+    "section": "Potions",
+    "headers": [
+      "d%",
+      "Type",
+      "",
+      "d%",
+      "Type",
+      "",
+      "d%",
+      "Type"
+    ],
+    "rows": [
+      [
+        "01-03",
+        "Clairaudience",
+        "",
+        "26-32",
+        "Delusion",
+        "",
+        "64-68",
+        "Invisibility"
+      ],
+      [
+        "04-06",
+        "Clairvoyance",
+        "",
+        "33-35",
+        "Diminution",
+        "",
+        "69-72",
+        "Invulnerability"
+      ],
+      [
+        "07-08",
+        "Cold Resistance",
+        "",
+        "36-39",
+        "Fire Resistance",
+        "",
+        "73-76",
+        "Levitation"
+      ],
+      [
+        "09-11",
+        "Control Animal",
+        "",
+        "40-43",
+        "Flying",
+        "",
+        "77-80",
+        "Longevity"
+      ],
+      [
+        "12-13",
+        "Control Dragon",
+        "",
+        "44-47",
+        "Gaseous Form",
+        "",
+        "81-84",
+        "Mind Reading"
+      ],
+      [
+        "14-16",
+        "Control Giant",
+        "",
+        "48-51",
+        "Giant Strength",
+        "",
+        "85-86",
+        "Poison"
+      ],
+      [
+        "17-19",
+        "Control Human",
+        "",
+        "52-55",
+        "Growth",
+        "",
+        "87-89",
+        "Polymorph Self"
+      ],
+      [
+        "20-22",
+        "Control Plant",
+        "",
+        "56-59",
+        "Healing",
+        "",
+        "90-97",
+        "Speed"
+      ],
+      [
+        "23-25",
+        "Control Undead",
+        "",
+        "60-63",
+        "Heroism",
+        "",
+        "98-00",
+        "Treasure Finding"
+      ]
+    ]
+  },
+  {
+    "section": "Scrolls",
+    "headers": [
+      "d%",
+      "General Type"
+    ],
+    "rows": [
+      [
+        "01-03",
+        "Cleric Spell Scroll (1 Spell)"
+      ],
+      [
+        "04-06",
+        "Cleric Spell Scroll (2 Spells)"
+      ],
+      [
+        "07-08",
+        "Cleric Spell Scroll (3 Spells)"
+      ],
+      [
+        "09",
+        "Cleric Spell Scroll (4 Spells)"
+      ],
+      [
+        "10-15",
+        "Magic-User Spell Scroll (1 Spell)"
+      ],
+      [
+        "16-20",
+        "Magic-User Spell Scroll (2 Spells)"
+      ],
+      [
+        "21-25",
+        "Magic-User Spell Scroll (3 Spells)"
+      ],
+      [
+        "26-29",
+        "Magic-User Spell Scroll (4 Spells)"
+      ],
+      [
+        "30-32",
+        "Magic-User Spell Scroll (5 Spells)"
+      ],
+      [
+        "33-34",
+        "Magic-User Spell Scroll (6 Spells)"
+      ],
+      [
+        "35",
+        "Magic-User Spell Scroll (7 Spells)"
+      ],
+      [
+        "36-40",
+        "Cursed Scroll"
+      ],
+      [
+        "41-46",
+        "Protection from Elementals"
+      ],
+      [
+        "47-56",
+        "Protection from Lycanthropes"
+      ],
+      [
+        "57-61",
+        "Protection from Magic"
+      ],
+      [
+        "62-75",
+        "Protection from Undead"
+      ],
+      [
+        "76-85",
+        "Map to Treasure Type A"
+      ],
+      [
+        "86-89",
+        "Map to Treasure Type E"
+      ],
+      [
+        "90-92",
+        "Map to Treasure Type G"
+      ],
+      [
+        "93-00",
+        "Map to 1d4 Magic Items"
+      ]
+    ]
+  },
+  {
+    "section": "Wands, Staves and Rods",
+    "headers": [
+      "d%",
+      "Type"
+    ],
+    "rows": [
+      [
+        "01-08",
+        "Rod of Cancellation"
+      ],
+      [
+        "09-13",
+        "Snake Staff"
+      ],
+      [
+        "14-17",
+        "Staff of Commanding"
+      ],
+      [
+        "18-28",
+        "Staff of Healing"
+      ],
+      [
+        "29-30",
+        "Staff of Power"
+      ],
+      [
+        "31-34",
+        "Staff of Striking"
+      ],
+      [
+        "35",
+        "Staff of Wizardry"
+      ],
+      [
+        "36-40",
+        "Wand of Cold"
+      ],
+      [
+        "41-45",
+        "Wand of Enemy Detection"
+      ],
+      [
+        "46-50",
+        "Wand of Fear"
+      ],
+      [
+        "51-55",
+        "Wand of Fireballs"
+      ],
+      [
+        "56-60",
+        "Wand of Illusion"
+      ],
+      [
+        "61-65",
+        "Wand of Lightning Bolts"
+      ],
+      [
+        "66-73",
+        "Wand of Magic Detection"
+      ],
+      [
+        "74-79",
+        "Wand of Paralysis"
+      ],
+      [
+        "80-84",
+        "Wand of Polymorph"
+      ],
+      [
+        "85-92",
+        "Wand of Secret Door Detection"
+      ],
+      [
+        "93-00",
+        "Wand of Trap Detection"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Items",
+    "headers": [
+      "d%",
+      "Subtable"
+    ],
+    "rows": [
+      [
+        "01-57",
+        "Effect Subtable 1"
+      ],
+      [
+        "58-00",
+        "Effect Subtable 2"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Items",
+    "headers": [
+      "d%",
+      "Effect",
+      "Form"
+    ],
+    "rows": [
+      [
+        "01",
+        "Blasting",
+        "G"
+      ],
+      [
+        "02-05",
+        "Blending",
+        "F"
+      ],
+      [
+        "06-13",
+        "Cold Resistance",
+        "F"
+      ],
+      [
+        "14-17",
+        "Comprehension",
+        "E"
+      ],
+      [
+        "18-22",
+        "Control Animal",
+        "C"
+      ],
+      [
+        "23-29",
+        "Control Human",
+        "C"
+      ],
+      [
+        "30-35",
+        "Control Plant",
+        "C"
+      ],
+      [
+        "36-37",
+        "Courage",
+        "G"
+      ],
+      [
+        "38-40",
+        "Deception",
+        "F"
+      ],
+      [
+        "41-52",
+        "Delusion",
+        "A"
+      ],
+      [
+        "53-55",
+        "Djinni Summoning",
+        "C"
+      ],
+      [
+        "56",
+        "Doom",
+        "G"
+      ],
+      [
+        "57-67",
+        "Fire Resistance",
+        "F"
+      ],
+      [
+        "68-80",
+        "Invisibility",
+        "F"
+      ],
+      [
+        "81-85",
+        "Levitation",
+        "B"
+      ],
+      [
+        "86-95",
+        "Mind Reading",
+        "C"
+      ],
+      [
+        "96-97",
+        "Panic",
+        "G"
+      ],
+      [
+        "98-00",
+        "Penetrating Vision",
+        "D"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Items",
+    "headers": [
+      "d%",
+      "Effect",
+      "Form"
+    ],
+    "rows": [
+      [
+        "01-07",
+        "Protection +1",
+        "F"
+      ],
+      [
+        "08-10",
+        "Protection +2",
+        "F"
+      ],
+      [
+        "11",
+        "Protection +3",
+        "F"
+      ],
+      [
+        "12-14",
+        "Protection from Energy Drain",
+        "F"
+      ],
+      [
+        "15-20",
+        "Protection from Scrying",
+        "F"
+      ],
+      [
+        "21-23",
+        "Regeneration",
+        "C"
+      ],
+      [
+        "24-29",
+        "Scrying",
+        "H"
+      ],
+      [
+        "30-32",
+        "Scrying, Superior",
+        "H"
+      ],
+      [
+        "33-39",
+        "Speed",
+        "B"
+      ],
+      [
+        "40-42",
+        "Spell Storing",
+        "C"
+      ],
+      [
+        "43-50",
+        "Spell Turning",
+        "F"
+      ],
+      [
+        "51-69",
+        "Stealth",
+        "B"
+      ],
+      [
+        "70-72",
+        "Telekinesis",
+        "C"
+      ],
+      [
+        "73-74",
+        "Telepathy",
+        "C"
+      ],
+      [
+        "75-76",
+        "Teleportation",
+        "C"
+      ],
+      [
+        "77-78",
+        "True Seeing",
+        "D"
+      ],
+      [
+        "79-88",
+        "Water Walking",
+        "B"
+      ],
+      [
+        "89-99",
+        "Weakness",
+        "C"
+      ],
+      [
+        "00",
+        "Wishes",
+        "C"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Items",
+    "headers": [
+      "",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "rows": [
+      [
+        "Bell (or Chime)",
+        "01-02",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "01-17",
+        ""
+      ],
+      [
+        "Belt or Girdle",
+        "03-05",
+        "",
+        "",
+        "",
+        "",
+        "01-07",
+        "",
+        ""
+      ],
+      [
+        "Boots",
+        "06-13",
+        "01-25",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Bowl",
+        "14-15",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "01-17"
+      ],
+      [
+        "Cloak",
+        "16-28",
+        "",
+        "",
+        "",
+        "",
+        "08-38",
+        "",
+        ""
+      ],
+      [
+        "Crystal Ball or Orb",
+        "29-31",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "18-67"
+      ],
+      [
+        "Drums",
+        "32-33",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "18-50",
+        ""
+      ],
+      [
+        "Helm",
+        "34-38",
+        "",
+        "",
+        "",
+        "01-40",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Horn",
+        "39-43",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "51-00",
+        ""
+      ],
+      [
+        "Lens",
+        "44-46",
+        "",
+        "",
+        "01-17",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mirror",
+        "47-49",
+        "",
+        "",
+        "18-21",
+        "",
+        "",
+        "",
+        "68-00"
+      ],
+      [
+        "Pendant",
+        "50-67",
+        "26-50",
+        "01-40",
+        "22-50",
+        "41-80",
+        "39-50",
+        "",
+        ""
+      ],
+      [
+        "Ring",
+        "68-00",
+        "51-00",
+        "41-00",
+        "51-00",
+        "81-00",
+        "51-00",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "section": "Rare Items",
+    "headers": [
+      "d%",
+      "Type"
+    ],
+    "rows": [
+      [
+        "01-05",
+        "Bag of Devouring"
+      ],
+      [
+        "06-20",
+        "Bag of Holding"
+      ],
+      [
+        "21-32",
+        "Boots of Traveling and Leaping"
+      ],
+      [
+        "33-47",
+        "Broom of Flying"
+      ],
+      [
+        "48-57",
+        "Device of Summoning Elementals (see below)"
+      ],
+      [
+        "58-59",
+        "Efreeti Bottle"
+      ],
+      [
+        "60-64",
+        "Flying Carpet"
+      ],
+      [
+        "65-81",
+        "Gauntlets of Ogre Power"
+      ],
+      [
+        "82-86",
+        "Girdle of Giant Strength"
+      ],
+      [
+        "87-88",
+        "Mirror of Imprisonment"
+      ],
+      [
+        "89-00",
+        "Rope of Climbing"
+      ]
+    ]
+  },
+  {
+    "section": "Devices of Summoning Elementals",
+    "headers": [
+      "1d8",
+      "Type"
+    ],
+    "rows": [
+      [
+        "1",
+        "Bowl of Summoning Water Elementals"
+      ],
+      [
+        "2",
+        "Brazier of Summoning Fire Elementals"
+      ],
+      [
+        "3",
+        "Censer of Summoning Air Elementals"
+      ],
+      [
+        "4",
+        "Crucible of Summoning Metal Elementals"
+      ],
+      [
+        "5",
+        "Mallet of Summoning Wood Elementals"
+      ],
+      [
+        "6",
+        "Marble Plate of Summoning Cold Elementals"
+      ],
+      [
+        "7",
+        "Rod of Summoning Lightning Elementals"
+      ],
+      [
+        "8",
+        "Stone of Summoning Earth Elementals"
+      ]
+    ]
+  },
+  {
+    "section": "Scrolls",
+    "headers": [
+      "d%",
+      "Level of Spell"
+    ],
+    "rows": [
+      [
+        "01-30",
+        "1st"
+      ],
+      [
+        "31-55",
+        "2nd"
+      ],
+      [
+        "56-75",
+        "3rd"
+      ],
+      [
+        "76-88",
+        "4th"
+      ],
+      [
+        "89-97",
+        "5th"
+      ],
+      [
+        "98-00",
+        "6th"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Item Effects",
+    "headers": [
+      "Knowledge and Connection",
+      "Chance"
+    ],
+    "rows": [
+      [
+        "Secondhand Knowledge (heard of)",
+        "25%"
+      ],
+      [
+        "Firsthand Knowledge (seen briefly)",
+        "55%"
+      ],
+      [
+        "Familiar (known well)",
+        "95%"
+      ],
+      [
+        "Possession or garment",
+        "+25%"
+      ],
+      [
+        "Body part, lock of hair, bit of nail, etc.",
+        "+50%"
+      ]
+    ]
+  },
+  {
+    "section": "Miscellaneous Item Effects",
+    "headers": [
+      "d%",
+      "# of Spells",
+      "",
+      "d%",
+      "Level of Spell"
+    ],
+    "rows": [
+      [
+        "01-24",
+        "1",
+        "",
+        "01-30",
+        "1st"
+      ],
+      [
+        "25-48",
+        "2",
+        "",
+        "31-55",
+        "2nd"
+      ],
+      [
+        "49-67",
+        "3",
+        "",
+        "56-75",
+        "3rd"
+      ],
+      [
+        "68-81",
+        "4",
+        "",
+        "76-85",
+        "4th"
+      ],
+      [
+        "82-91",
+        "5",
+        "",
+        "86-97",
+        "5th"
+      ],
+      [
+        "92-96",
+        "6",
+        "",
+        "98-00",
+        "6th"
+      ],
+      [
+        "97-00",
+        "7",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

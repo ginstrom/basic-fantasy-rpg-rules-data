@@ -1,0 +1,202 @@
+[
+  {
+    "thief_level": "1",
+    "open_locks": "25",
+    "remove_traps": "20",
+    "pick_pockets": "30",
+    "move_silently": "25",
+    "climb_walls": "80",
+    "hide": "10",
+    "listen": "30"
+  },
+  {
+    "thief_level": "2",
+    "open_locks": "30",
+    "remove_traps": "25",
+    "pick_pockets": "35",
+    "move_silently": "30",
+    "climb_walls": "81",
+    "hide": "15",
+    "listen": "34"
+  },
+  {
+    "thief_level": "3",
+    "open_locks": "35",
+    "remove_traps": "30",
+    "pick_pockets": "40",
+    "move_silently": "35",
+    "climb_walls": "82",
+    "hide": "20",
+    "listen": "38"
+  },
+  {
+    "thief_level": "4",
+    "open_locks": "40",
+    "remove_traps": "35",
+    "pick_pockets": "45",
+    "move_silently": "40",
+    "climb_walls": "83",
+    "hide": "25",
+    "listen": "42"
+  },
+  {
+    "thief_level": "5",
+    "open_locks": "45",
+    "remove_traps": "40",
+    "pick_pockets": "50",
+    "move_silently": "45",
+    "climb_walls": "84",
+    "hide": "30",
+    "listen": "46"
+  },
+  {
+    "thief_level": "6",
+    "open_locks": "50",
+    "remove_traps": "45",
+    "pick_pockets": "55",
+    "move_silently": "50",
+    "climb_walls": "85",
+    "hide": "35",
+    "listen": "50"
+  },
+  {
+    "thief_level": "7",
+    "open_locks": "55",
+    "remove_traps": "50",
+    "pick_pockets": "60",
+    "move_silently": "55",
+    "climb_walls": "86",
+    "hide": "40",
+    "listen": "54"
+  },
+  {
+    "thief_level": "8",
+    "open_locks": "60",
+    "remove_traps": "55",
+    "pick_pockets": "65",
+    "move_silently": "60",
+    "climb_walls": "87",
+    "hide": "45",
+    "listen": "58"
+  },
+  {
+    "thief_level": "9",
+    "open_locks": "65",
+    "remove_traps": "60",
+    "pick_pockets": "70",
+    "move_silently": "65",
+    "climb_walls": "88",
+    "hide": "50",
+    "listen": "62"
+  },
+  {
+    "thief_level": "10",
+    "open_locks": "68",
+    "remove_traps": "63",
+    "pick_pockets": "74",
+    "move_silently": "68",
+    "climb_walls": "89",
+    "hide": "53",
+    "listen": "65"
+  },
+  {
+    "thief_level": "11",
+    "open_locks": "71",
+    "remove_traps": "66",
+    "pick_pockets": "78",
+    "move_silently": "71",
+    "climb_walls": "90",
+    "hide": "56",
+    "listen": "68"
+  },
+  {
+    "thief_level": "12",
+    "open_locks": "74",
+    "remove_traps": "69",
+    "pick_pockets": "82",
+    "move_silently": "74",
+    "climb_walls": "91",
+    "hide": "59",
+    "listen": "71"
+  },
+  {
+    "thief_level": "13",
+    "open_locks": "77",
+    "remove_traps": "72",
+    "pick_pockets": "86",
+    "move_silently": "77",
+    "climb_walls": "92",
+    "hide": "62",
+    "listen": "74"
+  },
+  {
+    "thief_level": "14",
+    "open_locks": "80",
+    "remove_traps": "75",
+    "pick_pockets": "90",
+    "move_silently": "80",
+    "climb_walls": "93",
+    "hide": "65",
+    "listen": "77"
+  },
+  {
+    "thief_level": "15",
+    "open_locks": "83",
+    "remove_traps": "78",
+    "pick_pockets": "94",
+    "move_silently": "83",
+    "climb_walls": "94",
+    "hide": "68",
+    "listen": "80"
+  },
+  {
+    "thief_level": "16",
+    "open_locks": "84",
+    "remove_traps": "79",
+    "pick_pockets": "95",
+    "move_silently": "85",
+    "climb_walls": "95",
+    "hide": "69",
+    "listen": "83"
+  },
+  {
+    "thief_level": "17",
+    "open_locks": "85",
+    "remove_traps": "80",
+    "pick_pockets": "96",
+    "move_silently": "87",
+    "climb_walls": "96",
+    "hide": "70",
+    "listen": "86"
+  },
+  {
+    "thief_level": "18",
+    "open_locks": "86",
+    "remove_traps": "81",
+    "pick_pockets": "97",
+    "move_silently": "89",
+    "climb_walls": "97",
+    "hide": "71",
+    "listen": "89"
+  },
+  {
+    "thief_level": "19",
+    "open_locks": "87",
+    "remove_traps": "82",
+    "pick_pockets": "98",
+    "move_silently": "91",
+    "climb_walls": "98",
+    "hide": "72",
+    "listen": "92"
+  },
+  {
+    "thief_level": "20",
+    "open_locks": "88",
+    "remove_traps": "83",
+    "pick_pockets": "99",
+    "move_silently": "93",
+    "climb_walls": "99",
+    "hide": "73",
+    "listen": "95"
+  }
+]

@@ -1,0 +1,370 @@
+{
+  "cleric": [
+    {
+      "level": "1",
+      "death_ray_or_poison": "11",
+      "magic_wands": "12",
+      "paralysis_or_petrify": "14",
+      "dragon_breath": "16",
+      "spells": "15"
+    },
+    {
+      "level": "2-3",
+      "death_ray_or_poison": "10",
+      "magic_wands": "11",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "15",
+      "spells": "14"
+    },
+    {
+      "level": "4-5",
+      "death_ray_or_poison": "9",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "15",
+      "spells": "14"
+    },
+    {
+      "level": "6-7",
+      "death_ray_or_poison": "9",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "14",
+      "spells": "13"
+    },
+    {
+      "level": "8-9",
+      "death_ray_or_poison": "8",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "14",
+      "spells": "13"
+    },
+    {
+      "level": "10-11",
+      "death_ray_or_poison": "8",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "13",
+      "spells": "12"
+    },
+    {
+      "level": "12-13",
+      "death_ray_or_poison": "7",
+      "magic_wands": "8",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "13",
+      "spells": "12"
+    },
+    {
+      "level": "14-15",
+      "death_ray_or_poison": "7",
+      "magic_wands": "8",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "12",
+      "spells": "11"
+    },
+    {
+      "level": "16-17",
+      "death_ray_or_poison": "6",
+      "magic_wands": "7",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "12",
+      "spells": "11"
+    },
+    {
+      "level": "18-19",
+      "death_ray_or_poison": "6",
+      "magic_wands": "7",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "11",
+      "spells": "10"
+    },
+    {
+      "level": "20",
+      "death_ray_or_poison": "5",
+      "magic_wands": "6",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "11",
+      "spells": "10"
+    }
+  ],
+  "fighter": [
+    {
+      "level": "NM",
+      "death_ray_or_poison": "13",
+      "magic_wands": "14",
+      "paralysis_or_petrify": "15",
+      "dragon_breath": "16",
+      "spells": "18"
+    },
+    {
+      "level": "1",
+      "death_ray_or_poison": "12",
+      "magic_wands": "13",
+      "paralysis_or_petrify": "14",
+      "dragon_breath": "15",
+      "spells": "17"
+    },
+    {
+      "level": "2-3",
+      "death_ray_or_poison": "11",
+      "magic_wands": "12",
+      "paralysis_or_petrify": "14",
+      "dragon_breath": "15",
+      "spells": "16"
+    },
+    {
+      "level": "4-5",
+      "death_ray_or_poison": "11",
+      "magic_wands": "11",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "14",
+      "spells": "15"
+    },
+    {
+      "level": "6-7",
+      "death_ray_or_poison": "10",
+      "magic_wands": "11",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "14",
+      "spells": "15"
+    },
+    {
+      "level": "8-9",
+      "death_ray_or_poison": "9",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "13",
+      "spells": "14"
+    },
+    {
+      "level": "10-11",
+      "death_ray_or_poison": "9",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "12",
+      "spells": "13"
+    },
+    {
+      "level": "12-13",
+      "death_ray_or_poison": "8",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "12",
+      "spells": "13"
+    },
+    {
+      "level": "14-15",
+      "death_ray_or_poison": "7",
+      "magic_wands": "8",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "11",
+      "spells": "12"
+    },
+    {
+      "level": "16-17",
+      "death_ray_or_poison": "7",
+      "magic_wands": "7",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "10",
+      "spells": "11"
+    },
+    {
+      "level": "18-19",
+      "death_ray_or_poison": "6",
+      "magic_wands": "7",
+      "paralysis_or_petrify": "8",
+      "dragon_breath": "10",
+      "spells": "11"
+    },
+    {
+      "level": "20",
+      "death_ray_or_poison": "5",
+      "magic_wands": "6",
+      "paralysis_or_petrify": "8",
+      "dragon_breath": "9",
+      "spells": "10"
+    }
+  ],
+  "magic_user": [
+    {
+      "level": "1",
+      "death_ray_or_poison": "13",
+      "magic_wands": "14",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "16",
+      "spells": "15"
+    },
+    {
+      "level": "2-3",
+      "death_ray_or_poison": "13",
+      "magic_wands": "14",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "15",
+      "spells": "14"
+    },
+    {
+      "level": "4-5",
+      "death_ray_or_poison": "12",
+      "magic_wands": "13",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "15",
+      "spells": "13"
+    },
+    {
+      "level": "6-7",
+      "death_ray_or_poison": "12",
+      "magic_wands": "12",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "14",
+      "spells": "13"
+    },
+    {
+      "level": "8-9",
+      "death_ray_or_poison": "11",
+      "magic_wands": "11",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "14",
+      "spells": "12"
+    },
+    {
+      "level": "10-11",
+      "death_ray_or_poison": "11",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "13",
+      "spells": "11"
+    },
+    {
+      "level": "12-13",
+      "death_ray_or_poison": "10",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "13",
+      "spells": "11"
+    },
+    {
+      "level": "14-15",
+      "death_ray_or_poison": "10",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "8",
+      "dragon_breath": "12",
+      "spells": "10"
+    },
+    {
+      "level": "16-17",
+      "death_ray_or_poison": "9",
+      "magic_wands": "8",
+      "paralysis_or_petrify": "7",
+      "dragon_breath": "12",
+      "spells": "9"
+    },
+    {
+      "level": "18-19",
+      "death_ray_or_poison": "9",
+      "magic_wands": "7",
+      "paralysis_or_petrify": "6",
+      "dragon_breath": "11",
+      "spells": "9"
+    },
+    {
+      "level": "20",
+      "death_ray_or_poison": "8",
+      "magic_wands": "6",
+      "paralysis_or_petrify": "5",
+      "dragon_breath": "11",
+      "spells": "8"
+    }
+  ],
+  "thief": [
+    {
+      "level": "1",
+      "death_ray_or_poison": "13",
+      "magic_wands": "14",
+      "paralysis_or_petrify": "13",
+      "dragon_breath": "16",
+      "spells": "15"
+    },
+    {
+      "level": "2-3",
+      "death_ray_or_poison": "12",
+      "magic_wands": "14",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "15",
+      "spells": "14"
+    },
+    {
+      "level": "4-5",
+      "death_ray_or_poison": "11",
+      "magic_wands": "13",
+      "paralysis_or_petrify": "12",
+      "dragon_breath": "14",
+      "spells": "13"
+    },
+    {
+      "level": "6-7",
+      "death_ray_or_poison": "11",
+      "magic_wands": "13",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "13",
+      "spells": "13"
+    },
+    {
+      "level": "8-9",
+      "death_ray_or_poison": "10",
+      "magic_wands": "12",
+      "paralysis_or_petrify": "11",
+      "dragon_breath": "12",
+      "spells": "12"
+    },
+    {
+      "level": "10-11",
+      "death_ray_or_poison": "9",
+      "magic_wands": "12",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "11",
+      "spells": "11"
+    },
+    {
+      "level": "12-13",
+      "death_ray_or_poison": "9",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "10",
+      "dragon_breath": "10",
+      "spells": "11"
+    },
+    {
+      "level": "14-15",
+      "death_ray_or_poison": "8",
+      "magic_wands": "10",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "9",
+      "spells": "10"
+    },
+    {
+      "level": "16-17",
+      "death_ray_or_poison": "7",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "9",
+      "dragon_breath": "8",
+      "spells": "9"
+    },
+    {
+      "level": "18-19",
+      "death_ray_or_poison": "7",
+      "magic_wands": "9",
+      "paralysis_or_petrify": "8",
+      "dragon_breath": "7",
+      "spells": "9"
+    },
+    {
+      "level": "20",
+      "death_ray_or_poison": "6",
+      "magic_wands": "8",
+      "paralysis_or_petrify": "8",
+      "dragon_breath": "6",
+      "spells": "8"
+    }
+  ]
+}

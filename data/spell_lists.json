@@ -1,0 +1,960 @@
+{
+  "cleric": {
+    "1": [
+      "Cure Light Wounds*",
+      "Detect Evil*",
+      "Detect Magic",
+      "Light*",
+      "Protection from Evil*",
+      "Purify Food and Water",
+      "Remove Fear*",
+      "Resist Cold"
+    ],
+    "2": [
+      "Bless*",
+      "Charm Animal",
+      "Find Traps",
+      "Hold Person",
+      "Resist Fire",
+      "Silence 15' radius",
+      "Speak with Animals",
+      "Spiritual Hammer"
+    ],
+    "3": [
+      "Continual Light*",
+      "Cure Blindness*",
+      "Cure Disease*",
+      "Growth of Animals",
+      "Locate Object",
+      "Remove Curse*",
+      "Speak with Dead",
+      "Striking"
+    ],
+    "4": [
+      "Animate Dead",
+      "Create Water",
+      "Cure Serious Wounds*",
+      "Dispel Magic",
+      "Neutralize Poison*",
+      "Protection from Evil 10' radius*",
+      "Speak with Plants",
+      "Sticks to Snakes"
+    ],
+    "5": [
+      "Commune",
+      "Create Food",
+      "Dispel Evil",
+      "Insect Plague",
+      "Quest*",
+      "Raise Dead*",
+      "True Seeing",
+      "Wall of Fire"
+    ],
+    "6": [
+      "Animate Objects",
+      "Blade Barrier",
+      "Find the Path",
+      "Heal*",
+      "Regenerate",
+      "Restoration",
+      "Speak with Monsters",
+      "Word of Recall"
+    ]
+  },
+  "magic_user": {
+    "1": [
+      "Charm Person",
+      "Detect Magic",
+      "Floating Disc",
+      "Hold Portal",
+      "Light*",
+      "Magic Missile",
+      "Magic Mouth",
+      "Protection from Evil*",
+      "Read Languages",
+      "Shield",
+      "Sleep",
+      "Ventriloquism"
+    ],
+    "2": [
+      "Continual Light*",
+      "Detect Evil*",
+      "Detect Invisible",
+      "Invisibility",
+      "Knock",
+      "Levitate",
+      "Locate Object",
+      "Mind Reading",
+      "Mirror Image",
+      "Phantasmal Force",
+      "Web",
+      "Wizard Lock"
+    ],
+    "3": [
+      "Clairvoyance",
+      "Darkvision",
+      "Dispel Magic",
+      "Fireball",
+      "Fly",
+      "Haste*",
+      "Hold Person",
+      "Invisibility 10‘ radius",
+      "Lightning Bolt",
+      "Protection from Evil 10’ radius*",
+      "Protection from Normal Missiles",
+      "Water Breathing"
+    ],
+    "4": [
+      "Charm Monster",
+      "Confusion",
+      "Dimension Door",
+      "Growth of Plants*",
+      "Hallucinatory Terrain",
+      "Ice Storm",
+      "Massmorph",
+      "Polymorph Other",
+      "Polymorph Self",
+      "Remove Curse*",
+      "Wall of Fire",
+      "Wizard Eye"
+    ],
+    "5": [
+      "Animate Dead",
+      "Cloudkill",
+      "Conjure Elemental",
+      "Feeblemind*",
+      "Hold Monster",
+      "Magic Jar",
+      "Passwall",
+      "Telekinesis",
+      "Teleport",
+      "Wall of Stone"
+    ],
+    "6": [
+      "Anti-Magic Shell",
+      "Death Spell",
+      "Disintegrate",
+      "Flesh to Stone*",
+      "Geas*",
+      "Invisible Stalker",
+      "Lower Water",
+      "Projected Image",
+      "Reincarnate",
+      "Wall of Iron"
+    ]
+  },
+  "all": [
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Cure Light Wounds*",
+      "reversible": true,
+      "name_clean": "Cure Light Wounds"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Detect Evil*",
+      "reversible": true,
+      "name_clean": "Detect Evil"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Detect Magic",
+      "reversible": false,
+      "name_clean": "Detect Magic"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Light*",
+      "reversible": true,
+      "name_clean": "Light"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Protection from Evil*",
+      "reversible": true,
+      "name_clean": "Protection from Evil"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Purify Food and Water",
+      "reversible": false,
+      "name_clean": "Purify Food and Water"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Remove Fear*",
+      "reversible": true,
+      "name_clean": "Remove Fear"
+    },
+    {
+      "class": "cleric",
+      "level": 1,
+      "name": "Resist Cold",
+      "reversible": false,
+      "name_clean": "Resist Cold"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Bless*",
+      "reversible": true,
+      "name_clean": "Bless"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Charm Animal",
+      "reversible": false,
+      "name_clean": "Charm Animal"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Find Traps",
+      "reversible": false,
+      "name_clean": "Find Traps"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Hold Person",
+      "reversible": false,
+      "name_clean": "Hold Person"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Resist Fire",
+      "reversible": false,
+      "name_clean": "Resist Fire"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Silence 15' radius",
+      "reversible": false,
+      "name_clean": "Silence 15' radius"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Speak with Animals",
+      "reversible": false,
+      "name_clean": "Speak with Animals"
+    },
+    {
+      "class": "cleric",
+      "level": 2,
+      "name": "Spiritual Hammer",
+      "reversible": false,
+      "name_clean": "Spiritual Hammer"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Continual Light*",
+      "reversible": true,
+      "name_clean": "Continual Light"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Cure Blindness*",
+      "reversible": true,
+      "name_clean": "Cure Blindness"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Cure Disease*",
+      "reversible": true,
+      "name_clean": "Cure Disease"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Growth of Animals",
+      "reversible": false,
+      "name_clean": "Growth of Animals"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Locate Object",
+      "reversible": false,
+      "name_clean": "Locate Object"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Remove Curse*",
+      "reversible": true,
+      "name_clean": "Remove Curse"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Speak with Dead",
+      "reversible": false,
+      "name_clean": "Speak with Dead"
+    },
+    {
+      "class": "cleric",
+      "level": 3,
+      "name": "Striking",
+      "reversible": false,
+      "name_clean": "Striking"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Animate Dead",
+      "reversible": false,
+      "name_clean": "Animate Dead"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Create Water",
+      "reversible": false,
+      "name_clean": "Create Water"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Cure Serious Wounds*",
+      "reversible": true,
+      "name_clean": "Cure Serious Wounds"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Dispel Magic",
+      "reversible": false,
+      "name_clean": "Dispel Magic"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Neutralize Poison*",
+      "reversible": true,
+      "name_clean": "Neutralize Poison"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Protection from Evil 10' radius*",
+      "reversible": true,
+      "name_clean": "Protection from Evil 10' radius"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Speak with Plants",
+      "reversible": false,
+      "name_clean": "Speak with Plants"
+    },
+    {
+      "class": "cleric",
+      "level": 4,
+      "name": "Sticks to Snakes",
+      "reversible": false,
+      "name_clean": "Sticks to Snakes"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Commune",
+      "reversible": false,
+      "name_clean": "Commune"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Create Food",
+      "reversible": false,
+      "name_clean": "Create Food"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Dispel Evil",
+      "reversible": false,
+      "name_clean": "Dispel Evil"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Insect Plague",
+      "reversible": false,
+      "name_clean": "Insect Plague"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Quest*",
+      "reversible": true,
+      "name_clean": "Quest"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Raise Dead*",
+      "reversible": true,
+      "name_clean": "Raise Dead"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "True Seeing",
+      "reversible": false,
+      "name_clean": "True Seeing"
+    },
+    {
+      "class": "cleric",
+      "level": 5,
+      "name": "Wall of Fire",
+      "reversible": false,
+      "name_clean": "Wall of Fire"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Animate Objects",
+      "reversible": false,
+      "name_clean": "Animate Objects"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Blade Barrier",
+      "reversible": false,
+      "name_clean": "Blade Barrier"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Find the Path",
+      "reversible": false,
+      "name_clean": "Find the Path"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Heal*",
+      "reversible": true,
+      "name_clean": "Heal"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Regenerate",
+      "reversible": false,
+      "name_clean": "Regenerate"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Restoration",
+      "reversible": false,
+      "name_clean": "Restoration"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Speak with Monsters",
+      "reversible": false,
+      "name_clean": "Speak with Monsters"
+    },
+    {
+      "class": "cleric",
+      "level": 6,
+      "name": "Word of Recall",
+      "reversible": false,
+      "name_clean": "Word of Recall"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Charm Person",
+      "reversible": false,
+      "name_clean": "Charm Person"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Detect Magic",
+      "reversible": false,
+      "name_clean": "Detect Magic"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Floating Disc",
+      "reversible": false,
+      "name_clean": "Floating Disc"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Hold Portal",
+      "reversible": false,
+      "name_clean": "Hold Portal"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Light*",
+      "reversible": true,
+      "name_clean": "Light"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Magic Missile",
+      "reversible": false,
+      "name_clean": "Magic Missile"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Magic Mouth",
+      "reversible": false,
+      "name_clean": "Magic Mouth"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Protection from Evil*",
+      "reversible": true,
+      "name_clean": "Protection from Evil"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Read Languages",
+      "reversible": false,
+      "name_clean": "Read Languages"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Shield",
+      "reversible": false,
+      "name_clean": "Shield"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Sleep",
+      "reversible": false,
+      "name_clean": "Sleep"
+    },
+    {
+      "class": "magic_user",
+      "level": 1,
+      "name": "Ventriloquism",
+      "reversible": false,
+      "name_clean": "Ventriloquism"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Continual Light*",
+      "reversible": true,
+      "name_clean": "Continual Light"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Detect Evil*",
+      "reversible": true,
+      "name_clean": "Detect Evil"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Detect Invisible",
+      "reversible": false,
+      "name_clean": "Detect Invisible"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Invisibility",
+      "reversible": false,
+      "name_clean": "Invisibility"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Knock",
+      "reversible": false,
+      "name_clean": "Knock"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Levitate",
+      "reversible": false,
+      "name_clean": "Levitate"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Locate Object",
+      "reversible": false,
+      "name_clean": "Locate Object"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Mind Reading",
+      "reversible": false,
+      "name_clean": "Mind Reading"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Mirror Image",
+      "reversible": false,
+      "name_clean": "Mirror Image"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Phantasmal Force",
+      "reversible": false,
+      "name_clean": "Phantasmal Force"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Web",
+      "reversible": false,
+      "name_clean": "Web"
+    },
+    {
+      "class": "magic_user",
+      "level": 2,
+      "name": "Wizard Lock",
+      "reversible": false,
+      "name_clean": "Wizard Lock"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Clairvoyance",
+      "reversible": false,
+      "name_clean": "Clairvoyance"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Darkvision",
+      "reversible": false,
+      "name_clean": "Darkvision"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Dispel Magic",
+      "reversible": false,
+      "name_clean": "Dispel Magic"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Fireball",
+      "reversible": false,
+      "name_clean": "Fireball"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Fly",
+      "reversible": false,
+      "name_clean": "Fly"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Haste*",
+      "reversible": true,
+      "name_clean": "Haste"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Hold Person",
+      "reversible": false,
+      "name_clean": "Hold Person"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Invisibility 10‘ radius",
+      "reversible": false,
+      "name_clean": "Invisibility 10‘ radius"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Lightning Bolt",
+      "reversible": false,
+      "name_clean": "Lightning Bolt"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Protection from Evil 10’ radius*",
+      "reversible": true,
+      "name_clean": "Protection from Evil 10’ radius"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Protection from Normal Missiles",
+      "reversible": false,
+      "name_clean": "Protection from Normal Missiles"
+    },
+    {
+      "class": "magic_user",
+      "level": 3,
+      "name": "Water Breathing",
+      "reversible": false,
+      "name_clean": "Water Breathing"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Charm Monster",
+      "reversible": false,
+      "name_clean": "Charm Monster"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Confusion",
+      "reversible": false,
+      "name_clean": "Confusion"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Dimension Door",
+      "reversible": false,
+      "name_clean": "Dimension Door"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Growth of Plants*",
+      "reversible": true,
+      "name_clean": "Growth of Plants"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Hallucinatory Terrain",
+      "reversible": false,
+      "name_clean": "Hallucinatory Terrain"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Ice Storm",
+      "reversible": false,
+      "name_clean": "Ice Storm"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Massmorph",
+      "reversible": false,
+      "name_clean": "Massmorph"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Polymorph Other",
+      "reversible": false,
+      "name_clean": "Polymorph Other"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Polymorph Self",
+      "reversible": false,
+      "name_clean": "Polymorph Self"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Remove Curse*",
+      "reversible": true,
+      "name_clean": "Remove Curse"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Wall of Fire",
+      "reversible": false,
+      "name_clean": "Wall of Fire"
+    },
+    {
+      "class": "magic_user",
+      "level": 4,
+      "name": "Wizard Eye",
+      "reversible": false,
+      "name_clean": "Wizard Eye"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Animate Dead",
+      "reversible": false,
+      "name_clean": "Animate Dead"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Cloudkill",
+      "reversible": false,
+      "name_clean": "Cloudkill"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Conjure Elemental",
+      "reversible": false,
+      "name_clean": "Conjure Elemental"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Feeblemind*",
+      "reversible": true,
+      "name_clean": "Feeblemind"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Hold Monster",
+      "reversible": false,
+      "name_clean": "Hold Monster"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Magic Jar",
+      "reversible": false,
+      "name_clean": "Magic Jar"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Passwall",
+      "reversible": false,
+      "name_clean": "Passwall"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Telekinesis",
+      "reversible": false,
+      "name_clean": "Telekinesis"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Teleport",
+      "reversible": false,
+      "name_clean": "Teleport"
+    },
+    {
+      "class": "magic_user",
+      "level": 5,
+      "name": "Wall of Stone",
+      "reversible": false,
+      "name_clean": "Wall of Stone"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Anti-Magic Shell",
+      "reversible": false,
+      "name_clean": "Anti-Magic Shell"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Death Spell",
+      "reversible": false,
+      "name_clean": "Death Spell"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Disintegrate",
+      "reversible": false,
+      "name_clean": "Disintegrate"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Flesh to Stone*",
+      "reversible": true,
+      "name_clean": "Flesh to Stone"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Geas*",
+      "reversible": true,
+      "name_clean": "Geas"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Invisible Stalker",
+      "reversible": false,
+      "name_clean": "Invisible Stalker"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Lower Water",
+      "reversible": false,
+      "name_clean": "Lower Water"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Projected Image",
+      "reversible": false,
+      "name_clean": "Projected Image"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Reincarnate",
+      "reversible": false,
+      "name_clean": "Reincarnate"
+    },
+    {
+      "class": "magic_user",
+      "level": 6,
+      "name": "Wall of Iron",
+      "reversible": false,
+      "name_clean": "Wall of Iron"
+    }
+  ]
+}

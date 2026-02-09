@@ -1,0 +1,282 @@
+{
+  "undead_columns": [
+    {
+      "name": "Skeleton",
+      "hit_dice": "1 Hit Die"
+    },
+    {
+      "name": "Zombie",
+      "hit_dice": "2 Hit Dice"
+    },
+    {
+      "name": "Ghoul",
+      "hit_dice": "3 Hit Dice"
+    },
+    {
+      "name": "Wight",
+      "hit_dice": "4 Hit Dice"
+    },
+    {
+      "name": "Wraith",
+      "hit_dice": "5 Hit Dice"
+    },
+    {
+      "name": "Mummy",
+      "hit_dice": "6 Hit Dice"
+    },
+    {
+      "name": "Spectre",
+      "hit_dice": "7 Hit Dice"
+    },
+    {
+      "name": "Vampire",
+      "hit_dice": "8 Hit Dice"
+    },
+    {
+      "name": "Ghost",
+      "hit_dice": "9+ Hit Dice"
+    }
+  ],
+  "rows": [
+    {
+      "cleric_level": "1",
+      "skeleton": "13",
+      "zombie": "17",
+      "ghoul": "19",
+      "wight": "No",
+      "wraith": "No",
+      "mummy": "No",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "2",
+      "skeleton": "11",
+      "zombie": "15",
+      "ghoul": "18",
+      "wight": "20",
+      "wraith": "No",
+      "mummy": "No",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "3",
+      "skeleton": "9",
+      "zombie": "13",
+      "ghoul": "17",
+      "wight": "19",
+      "wraith": "No",
+      "mummy": "No",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "4",
+      "skeleton": "7",
+      "zombie": "11",
+      "ghoul": "15",
+      "wight": "18",
+      "wraith": "20",
+      "mummy": "No",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "5",
+      "skeleton": "5",
+      "zombie": "9",
+      "ghoul": "13",
+      "wight": "17",
+      "wraith": "19",
+      "mummy": "No",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "6",
+      "skeleton": "3",
+      "zombie": "7",
+      "ghoul": "11",
+      "wight": "15",
+      "wraith": "18",
+      "mummy": "20",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "7",
+      "skeleton": "2",
+      "zombie": "5",
+      "ghoul": "9",
+      "wight": "13",
+      "wraith": "17",
+      "mummy": "19",
+      "spectre": "No",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "8",
+      "skeleton": "T",
+      "zombie": "3",
+      "ghoul": "7",
+      "wight": "11",
+      "wraith": "15",
+      "mummy": "18",
+      "spectre": "20",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "9",
+      "skeleton": "T",
+      "zombie": "2",
+      "ghoul": "5",
+      "wight": "9",
+      "wraith": "13",
+      "mummy": "17",
+      "spectre": "19",
+      "vampire": "No",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "10",
+      "skeleton": "T",
+      "zombie": "T",
+      "ghoul": "3",
+      "wight": "7",
+      "wraith": "11",
+      "mummy": "15",
+      "spectre": "18",
+      "vampire": "20",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "11",
+      "skeleton": "D",
+      "zombie": "T",
+      "ghoul": "2",
+      "wight": "5",
+      "wraith": "9",
+      "mummy": "13",
+      "spectre": "17",
+      "vampire": "19",
+      "ghost": "No"
+    },
+    {
+      "cleric_level": "12",
+      "skeleton": "D",
+      "zombie": "T",
+      "ghoul": "T",
+      "wight": "3",
+      "wraith": "7",
+      "mummy": "11",
+      "spectre": "15",
+      "vampire": "18",
+      "ghost": "20"
+    },
+    {
+      "cleric_level": "13",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "T",
+      "wight": "2",
+      "wraith": "5",
+      "mummy": "9",
+      "spectre": "13",
+      "vampire": "17",
+      "ghost": "19"
+    },
+    {
+      "cleric_level": "14",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "T",
+      "wight": "T",
+      "wraith": "3",
+      "mummy": "7",
+      "spectre": "11",
+      "vampire": "15",
+      "ghost": "18"
+    },
+    {
+      "cleric_level": "15",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "T",
+      "wraith": "2",
+      "mummy": "5",
+      "spectre": "9",
+      "vampire": "13",
+      "ghost": "17"
+    },
+    {
+      "cleric_level": "16",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "T",
+      "wraith": "T",
+      "mummy": "3",
+      "spectre": "7",
+      "vampire": "11",
+      "ghost": "15"
+    },
+    {
+      "cleric_level": "17",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "D",
+      "wraith": "T",
+      "mummy": "2",
+      "spectre": "5",
+      "vampire": "9",
+      "ghost": "13"
+    },
+    {
+      "cleric_level": "18",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "D",
+      "wraith": "T",
+      "mummy": "T",
+      "spectre": "3",
+      "vampire": "7",
+      "ghost": "11"
+    },
+    {
+      "cleric_level": "19",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "D",
+      "wraith": "D",
+      "mummy": "T",
+      "spectre": "2",
+      "vampire": "5",
+      "ghost": "9"
+    },
+    {
+      "cleric_level": "20",
+      "skeleton": "D",
+      "zombie": "D",
+      "ghoul": "D",
+      "wight": "D",
+      "wraith": "D",
+      "mummy": "T",
+      "spectre": "T",
+      "vampire": "3",
+      "ghost": "7"
+    }
+  ]
+}

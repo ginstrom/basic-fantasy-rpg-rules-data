@@ -1,0 +1,275 @@
+[
+  {
+    "weapon": "Axes",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Hand Axe",
+    "price": "4 gp",
+    "size": "S",
+    "weight": "5",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Battle Axe",
+    "price": "7 gp",
+    "size": "M",
+    "weight": "7",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Great Axe",
+    "price": "14 gp",
+    "size": "L",
+    "weight": "15",
+    "dmg": "1d10"
+  },
+  {
+    "weapon": "Bows",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Shortbow",
+    "price": "25 gp",
+    "size": "M",
+    "weight": "2",
+    "dmg": ""
+  },
+  {
+    "weapon": "Shortbow Arrow",
+    "price": "1 sp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Silver† Shortbow Arrow",
+    "price": "2 gp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Longbow",
+    "price": "60 gp",
+    "size": "L",
+    "weight": "3",
+    "dmg": ""
+  },
+  {
+    "weapon": "Longbow Arrow",
+    "price": "2 sp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Silver† Longbow Arrow",
+    "price": "4 gp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Light Crossbow",
+    "price": "30 gp",
+    "size": "M",
+    "weight": "7",
+    "dmg": ""
+  },
+  {
+    "weapon": "Light Quarrel",
+    "price": "2 sp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Silver† Light Quarrel",
+    "price": "5 gp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Heavy Crossbow",
+    "price": "50 gp",
+    "size": "L",
+    "weight": "14",
+    "dmg": ""
+  },
+  {
+    "weapon": "Heavy Quarrel",
+    "price": "4 sp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Silver† Heavy Quarrel",
+    "price": "10 gp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Daggers",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Dagger",
+    "price": "2 gp",
+    "size": "S",
+    "weight": "1",
+    "dmg": "1d4"
+  },
+  {
+    "weapon": "Silver† Dagger",
+    "price": "25 gp",
+    "size": "S",
+    "weight": "1",
+    "dmg": "1d4"
+  },
+  {
+    "weapon": "Swords",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Shortsword",
+    "price": "6 gp",
+    "size": "S",
+    "weight": "3",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Longsword/Scimitar",
+    "price": "10 gp",
+    "size": "M",
+    "weight": "4",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Two-Handed Sword",
+    "price": "18 gp",
+    "size": "L",
+    "weight": "10",
+    "dmg": "1d10"
+  },
+  {
+    "weapon": "Hammers and Maces",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Warhammer",
+    "price": "4 gp",
+    "size": "S",
+    "weight": "6",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Mace",
+    "price": "6 gp",
+    "size": "M",
+    "weight": "10",
+    "dmg": "1d8"
+  },
+  {
+    "weapon": "Maul",
+    "price": "10 gp",
+    "size": "L",
+    "weight": "16",
+    "dmg": "1d10"
+  },
+  {
+    "weapon": "Other Weapons",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": ""
+  },
+  {
+    "weapon": "Club/Cudgel/Walking Staff",
+    "price": "2 sp",
+    "size": "M",
+    "weight": "1",
+    "dmg": "1d4"
+  },
+  {
+    "weapon": "Quarterstaff",
+    "price": "2 gp",
+    "size": "L",
+    "weight": "4",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Pole Arm",
+    "price": "9 gp",
+    "size": "L",
+    "weight": "15",
+    "dmg": "1d10"
+  },
+  {
+    "weapon": "Sling",
+    "price": "1 gp",
+    "size": "S",
+    "weight": "*",
+    "dmg": ""
+  },
+  {
+    "weapon": "Bullet",
+    "price": "1 sp",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d4"
+  },
+  {
+    "weapon": "Stone",
+    "price": "n/a",
+    "size": "",
+    "weight": "*",
+    "dmg": "1d3"
+  },
+  {
+    "weapon": "Spear",
+    "price": "5 gp",
+    "size": "M",
+    "weight": "5",
+    "dmg": ""
+  },
+  {
+    "weapon": "Thrown (one handed)",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Melee (one handed)",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": "1d6"
+  },
+  {
+    "weapon": "Melee (two handed)",
+    "price": "",
+    "size": "",
+    "weight": "",
+    "dmg": "1d8"
+  }
+]
