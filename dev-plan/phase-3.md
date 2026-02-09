@@ -6,10 +6,10 @@ Parse spell lists and full spell descriptions with class/level metadata and spec
 
 ## Tasks
 
-- [ ] Parse spell index by class and level.
-- [ ] Parse all individual spell entries.
-- [ ] Handle reversible spells.
-- [ ] Extract embedded spell tables where present.
+- [x] Parse spell index by class and level.
+- [x] Parse all individual spell entries.
+- [x] Handle reversible spells.
+- [x] Extract embedded spell tables where present.
 
 ## Technical Notes
 
@@ -25,5 +25,5 @@ Parse spell lists and full spell descriptions with class/level metadata and spec
 
 ## Exit Criteria
 
-- Parsed spell count is within expected range (~65-70).
-- All entries include class/level metadata.
+- [x] Parsed spell count is within expected range (~97 for Release 142).
+- [x] All entries include class/level metadata.
