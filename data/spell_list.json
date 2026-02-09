@@ -1,149 +1,151 @@
 {
-  "cleric": {
-    "1": [
-      "Cure Light Wounds*",
-      "Detect Evil*",
-      "Detect Magic",
-      "Light*",
-      "Protection from Evil*",
-      "Purify Food and Water",
-      "Remove Fear*",
-      "Resist Cold"
-    ],
-    "2": [
-      "Bless*",
-      "Charm Animal",
-      "Find Traps",
-      "Hold Person",
-      "Resist Fire",
-      "Silence 15' radius",
-      "Speak with Animals",
-      "Spiritual Hammer"
-    ],
-    "3": [
-      "Continual Light*",
-      "Cure Blindness*",
-      "Cure Disease*",
-      "Growth of Animals",
-      "Locate Object",
-      "Remove Curse*",
-      "Speak with Dead",
-      "Striking"
-    ],
-    "4": [
-      "Animate Dead",
-      "Create Water",
-      "Cure Serious Wounds*",
-      "Dispel Magic",
-      "Neutralize Poison*",
-      "Protection from Evil 10' radius*",
-      "Speak with Plants",
-      "Sticks to Snakes"
-    ],
-    "5": [
-      "Commune",
-      "Create Food",
-      "Dispel Evil",
-      "Insect Plague",
-      "Quest*",
-      "Raise Dead*",
-      "True Seeing",
-      "Wall of Fire"
-    ],
-    "6": [
-      "Animate Objects",
-      "Blade Barrier",
-      "Find the Path",
-      "Heal*",
-      "Regenerate",
-      "Restoration",
-      "Speak with Monsters",
-      "Word of Recall"
-    ]
+  "spell_progression": {
+    "cleric": {
+      "1": [
+        "Cure Light Wounds*",
+        "Detect Evil*",
+        "Detect Magic",
+        "Light*",
+        "Protection from Evil*",
+        "Purify Food and Water",
+        "Remove Fear*",
+        "Resist Cold"
+      ],
+      "2": [
+        "Bless*",
+        "Charm Animal",
+        "Find Traps",
+        "Hold Person",
+        "Resist Fire",
+        "Silence 15' radius",
+        "Speak with Animals",
+        "Spiritual Hammer"
+      ],
+      "3": [
+        "Continual Light*",
+        "Cure Blindness*",
+        "Cure Disease*",
+        "Growth of Animals",
+        "Locate Object",
+        "Remove Curse*",
+        "Speak with Dead",
+        "Striking"
+      ],
+      "4": [
+        "Animate Dead",
+        "Create Water",
+        "Cure Serious Wounds*",
+        "Dispel Magic",
+        "Neutralize Poison*",
+        "Protection from Evil 10' radius*",
+        "Speak with Plants",
+        "Sticks to Snakes"
+      ],
+      "5": [
+        "Commune",
+        "Create Food",
+        "Dispel Evil",
+        "Insect Plague",
+        "Quest*",
+        "Raise Dead*",
+        "True Seeing",
+        "Wall of Fire"
+      ],
+      "6": [
+        "Animate Objects",
+        "Blade Barrier",
+        "Find the Path",
+        "Heal*",
+        "Regenerate",
+        "Restoration",
+        "Speak with Monsters",
+        "Word of Recall"
+      ]
+    },
+    "magic_user": {
+      "1": [
+        "Charm Person",
+        "Detect Magic",
+        "Floating Disc",
+        "Hold Portal",
+        "Light*",
+        "Magic Missile",
+        "Magic Mouth",
+        "Protection from Evil*",
+        "Read Languages",
+        "Shield",
+        "Sleep",
+        "Ventriloquism"
+      ],
+      "2": [
+        "Continual Light*",
+        "Detect Evil*",
+        "Detect Invisible",
+        "Invisibility",
+        "Knock",
+        "Levitate",
+        "Locate Object",
+        "Mind Reading",
+        "Mirror Image",
+        "Phantasmal Force",
+        "Web",
+        "Wizard Lock"
+      ],
+      "3": [
+        "Clairvoyance",
+        "Darkvision",
+        "Dispel Magic",
+        "Fireball",
+        "Fly",
+        "Haste*",
+        "Hold Person",
+        "Invisibility 10‘ radius",
+        "Lightning Bolt",
+        "Protection from Evil 10’ radius*",
+        "Protection from Normal Missiles",
+        "Water Breathing"
+      ],
+      "4": [
+        "Charm Monster",
+        "Confusion",
+        "Dimension Door",
+        "Growth of Plants*",
+        "Hallucinatory Terrain",
+        "Ice Storm",
+        "Massmorph",
+        "Polymorph Other",
+        "Polymorph Self",
+        "Remove Curse*",
+        "Wall of Fire",
+        "Wizard Eye"
+      ],
+      "5": [
+        "Animate Dead",
+        "Cloudkill",
+        "Conjure Elemental",
+        "Feeblemind*",
+        "Hold Monster",
+        "Magic Jar",
+        "Passwall",
+        "Telekinesis",
+        "Teleport",
+        "Wall of Stone"
+      ],
+      "6": [
+        "Anti-Magic Shell",
+        "Death Spell",
+        "Disintegrate",
+        "Flesh to Stone*",
+        "Geas*",
+        "Invisible Stalker",
+        "Lower Water",
+        "Projected Image",
+        "Reincarnate",
+        "Wall of Iron"
+      ]
+    }
   },
-  "magic_user": {
-    "1": [
-      "Charm Person",
-      "Detect Magic",
-      "Floating Disc",
-      "Hold Portal",
-      "Light*",
-      "Magic Missile",
-      "Magic Mouth",
-      "Protection from Evil*",
-      "Read Languages",
-      "Shield",
-      "Sleep",
-      "Ventriloquism"
-    ],
-    "2": [
-      "Continual Light*",
-      "Detect Evil*",
-      "Detect Invisible",
-      "Invisibility",
-      "Knock",
-      "Levitate",
-      "Locate Object",
-      "Mind Reading",
-      "Mirror Image",
-      "Phantasmal Force",
-      "Web",
-      "Wizard Lock"
-    ],
-    "3": [
-      "Clairvoyance",
-      "Darkvision",
-      "Dispel Magic",
-      "Fireball",
-      "Fly",
-      "Haste*",
-      "Hold Person",
-      "Invisibility 10‘ radius",
-      "Lightning Bolt",
-      "Protection from Evil 10’ radius*",
-      "Protection from Normal Missiles",
-      "Water Breathing"
-    ],
-    "4": [
-      "Charm Monster",
-      "Confusion",
-      "Dimension Door",
-      "Growth of Plants*",
-      "Hallucinatory Terrain",
-      "Ice Storm",
-      "Massmorph",
-      "Polymorph Other",
-      "Polymorph Self",
-      "Remove Curse*",
-      "Wall of Fire",
-      "Wizard Eye"
-    ],
-    "5": [
-      "Animate Dead",
-      "Cloudkill",
-      "Conjure Elemental",
-      "Feeblemind*",
-      "Hold Monster",
-      "Magic Jar",
-      "Passwall",
-      "Telekinesis",
-      "Teleport",
-      "Wall of Stone"
-    ],
-    "6": [
-      "Anti-Magic Shell",
-      "Death Spell",
-      "Disintegrate",
-      "Flesh to Stone*",
-      "Geas*",
-      "Invisible Stalker",
-      "Lower Water",
-      "Projected Image",
-      "Reincarnate",
-      "Wall of Iron"
-    ]
-  },
-  "all": [
+  "spell_levels": [
     {
       "class": "cleric",
       "level": 1,

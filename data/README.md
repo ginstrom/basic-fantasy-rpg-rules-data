@@ -16,7 +16,7 @@ Generated structured JSON outputs from the Basic Fantasy RPG manual.
 - `monsters.json`: Monster records with stat blocks, descriptions, and warnings.
 - `races.json`: Race prose descriptions and labeled fields.
 - `saving_throws.json`: Saving throw progression by class.
-- `spell_lists.json`: Spell indexes by class and level.
+- `spell_list.json`: Spell indexes by class/level and flattened spell-level rows.
 - `spells.json`: Individual spell records with metadata and descriptions.
 - `thief_abilities.json`: Thief ability progression table.
 - `treasure_types.json`: Treasure type and value tables.

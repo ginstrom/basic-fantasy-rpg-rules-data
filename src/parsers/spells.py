@@ -13,8 +13,9 @@ from extract_text import get_text, get_text_preserve_whitespace, iter_elements, 
 
 OUTPUT_FILES = {
     "spells": "spells.json",
-    "spell_lists": "spell_lists.json",
+    "spell_list": "spell_list.json",
 }
+LEGACY_OUTPUT_FILES = ("spell_lists.json",)
 
 
 _CLASS_RE = re.compile(r"(Cleric|Magic-User)\s*(\d+)", re.IGNORECASE)
@@ -71,7 +72,7 @@ def _parse_spell_list_section(elements: list[Tag], header: str, class_key: str) 
     return out
 
 
-def parse_spell_lists(elements: list[Tag]) -> dict[str, object]:
+def parse_spell_list(elements: list[Tag]) -> dict[str, object]:
     cleric = _parse_spell_list_section(elements, "Cleric Spells", "cleric")
     magic_user = _parse_spell_list_section(elements, "Magic-User Spells", "magic_user")
 
@@ -90,9 +91,11 @@ def parse_spell_lists(elements: list[Tag]) -> dict[str, object]:
                 )
 
     return {
-        "cleric": {str(k): v for k, v in sorted(cleric.items())},
-        "magic_user": {str(k): v for k, v in sorted(magic_user.items())},
-        "all": all_rows,
+        "spell_progression": {
+            "cleric": {str(k): v for k, v in sorted(cleric.items())},
+            "magic_user": {str(k): v for k, v in sorted(magic_user.items())},
+        },
+        "spell_levels": all_rows,
     }
 
 
@@ -212,13 +215,18 @@ def parse_phase3_data() -> dict[str, object]:
 
     return {
         "spells": parse_spells(elements),
-        "spell_lists": parse_spell_lists(elements),
+        "spell_list": parse_spell_list(elements),
     }
 
 
 def write_phase3_outputs(output_dir: str = "data") -> dict[str, int]:
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    for legacy in LEGACY_OUTPUT_FILES:
+        legacy_path = out_dir / legacy
+        if legacy_path.exists():
+            legacy_path.unlink()
 
     parsed = parse_phase3_data()
     counts: dict[str, int] = {}
@@ -231,8 +239,8 @@ def write_phase3_outputs(output_dir: str = "data") -> dict[str, int]:
 
         if key == "spells":
             counts[key] = len(parsed[key])
-        elif key == "spell_lists":
-            counts[key] = len(parsed[key].get("all", []))
+        elif key == "spell_list":
+            counts[key] = len(parsed[key].get("spell_levels", []))
         else:
             counts[key] = 0
 

@@ -100,13 +100,17 @@ def run_validation(data_dir: str = "data") -> dict[str, Any]:
     issues: list[dict[str, str]] = []
 
     spells = _load_json(root, "spells.json") or []
-    spell_lists = _load_json(root, "spell_lists.json") or {}
+    spell_list = _load_json(root, "spell_list.json") or {}
     monsters = _load_json(root, "monsters.json") or []
     encounters = _load_json(root, "encounter_tables.json") or {}
     combat_tables = _load_json(root, "combat_tables.json") or []
 
     spell_names = {_canon(s.get("name_clean", "")) for s in spells if s.get("name_clean")}
-    listed_names = {_canon(x.get("name_clean", "")) for x in spell_lists.get("all", []) if x.get("name_clean")}
+    listed_names = {
+        _canon(x.get("name_clean", ""))
+        for x in spell_list.get("spell_levels", [])
+        if x.get("name_clean")
+    }
     missing_spells = sorted(n for n in listed_names if n and n not in spell_names)
     if missing_spells:
         # Small residual mismatches are expected from naming/edition drift
@@ -198,7 +202,7 @@ Generated structured JSON outputs from the Basic Fantasy RPG manual.
 - `monsters.json`: Monster records with stat blocks, descriptions, and warnings.
 - `races.json`: Race prose descriptions and labeled fields.
 - `saving_throws.json`: Saving throw progression by class.
-- `spell_lists.json`: Spell indexes by class and level.
+- `spell_list.json`: Spell indexes by class/level and flattened spell-level rows.
 - `spells.json`: Individual spell records with metadata and descriptions.
 - `thief_abilities.json`: Thief ability progression table.
 - `treasure_types.json`: Treasure type and value tables.

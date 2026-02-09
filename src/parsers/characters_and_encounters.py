@@ -185,7 +185,7 @@ def parse_combat_tables(part2_blocks: list[tuple[str, list[Tag]]], part5_blocks:
     attack_bonus = _load_json_if_exists(Path("data/attack_bonus.json"))
     if isinstance(attack_bonus, list) and attack_bonus:
         headers = list(attack_bonus[0].keys())
-        rows = [[str(rec.get(h, "")) for h in headers] for rec in attack_bonus]
+        rows = [[rec.get(h, "") for h in headers] for rec in attack_bonus]
         out.append(
             {
                 "table_name": "Attack Bonus Table",
@@ -202,7 +202,7 @@ def parse_combat_tables(part2_blocks: list[tuple[str, list[Tag]]], part5_blocks:
             if not records:
                 continue
             headers = list(records[0].keys())
-            rows = [[str(rec.get(h, "")) for h in headers] for rec in records]
+            rows = [[rec.get(h, "") for h in headers] for rec in records]
             out.append(
                 {
                     "table_name": f"Saving Throws ({cls})",

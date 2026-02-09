@@ -3,12 +3,29 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, "src")
 
 from parsers.characters_and_encounters import OUTPUT_FILES, write_phase6_outputs
+
+
+_LIST_LITERAL_RE = re.compile(r"^\[[0-9]+(?:,\s*[0-9]+)+\]$")
+
+
+def _find_stringified_list_cells(combat_tables: list[dict[str, object]]) -> list[str]:
+    offenders: list[str] = []
+    for table in combat_tables:
+        table_name = str(table.get("table_name", "<unnamed>"))
+        for row_idx, row in enumerate(table.get("rows", []), start=1):
+            if not isinstance(row, list):
+                continue
+            for col_idx, cell in enumerate(row, start=1):
+                if isinstance(cell, str) and _LIST_LITERAL_RE.fullmatch(cell.strip()):
+                    offenders.append(f"{table_name} row {row_idx} col {col_idx}: {cell}")
+    return offenders
 
 
 def main() -> int:
@@ -71,6 +88,13 @@ def main() -> int:
         print("[PASS] Combat tables are machine-readable")
     else:
         print(f"[FAIL] Malformed combat tables: {malformed[:8]}")
+        failed += 1
+
+    stringified_lists = _find_stringified_list_cells(combat)
+    if not stringified_lists:
+        print("[PASS] Combat table list values are preserved as arrays")
+    else:
+        print(f"[FAIL] Combat table has stringified list cells: {stringified_lists[:8]}")
         failed += 1
 
     return 1 if failed else 0

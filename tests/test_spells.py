@@ -39,7 +39,7 @@ def main() -> int:
             failed += 1
 
     spells = json.loads((out_dir / OUTPUT_FILES["spells"]).read_text(encoding="utf-8"))
-    spell_lists = json.loads((out_dir / OUTPUT_FILES["spell_lists"]).read_text(encoding="utf-8"))
+    spell_list = json.loads((out_dir / OUTPUT_FILES["spell_list"]).read_text(encoding="utf-8"))
 
     if 90 <= len(spells) <= 110:
         print(f"[PASS] Spell count in expected range: {len(spells)}")
@@ -68,7 +68,7 @@ def main() -> int:
         print(f"[FAIL] Expected embedded tables, found: {embedded_tables}")
         failed += 1
 
-    listed = {row["name_clean"] for row in spell_lists.get("all", [])}
+    listed = {row["name_clean"] for row in spell_list.get("spell_levels", [])}
     parsed = {s["name_clean"] for s in spells}
     overlap = len(listed & parsed)
     if overlap >= 60:
