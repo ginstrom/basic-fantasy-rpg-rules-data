@@ -26,7 +26,6 @@ make test
 
 ## Repository layout
 
-- `scripts/`: scripts used to generate and update extracted data from the HTML manual.
 - `data/`: generated JSON outputs.
 - `src/`: parser and generation implementation.
 - `tests/`: validation tests for extraction phases.
