@@ -4,7 +4,7 @@ Data in this repository is derived from the Basic Fantasy RPG manual at https://
 
 ## License
 
-This project is licensed under CC BY-SA 4.0. See `LICENSE` for full terms and attribution details.
+This project is licensed under CC BY-SA 4.0. See (LICENSE)[LICENSE.md] for full terms and attribution details.
 
 ## Important Artwork Notice
 
