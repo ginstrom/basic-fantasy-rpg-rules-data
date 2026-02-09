@@ -13,7 +13,7 @@ Parse spell lists and full spell descriptions with class/level metadata and spec
 
 ## Technical Notes
 
-- Spell pages require robust column splitting before entry parsing.
+- Spell parsing should rely on HTML section boundaries rather than page-column heuristics.
 - Detect spell boundaries from header + `Range:` and `Duration:` patterns.
 - Parse class/level lines such as `Cleric 4, Magic-User 5`.
 - Preserve parse warnings instead of dropping partial entries.

@@ -15,8 +15,8 @@ Extract core tabular rule data into normalized JSON files.
 
 ## Technical Notes
 
-- Prefer `pdfplumber` table extraction for grid-like content.
-- Fall back to layout-text regex parsing when table detection fails.
+- Prefer semantic HTML `<table>` parsing via `table_to_rows` for grid-like content.
+- Fall back to section-scoped text pattern parsing when table markup is irregular.
 - Normalize row/column naming across outputs for consistent downstream use.
 
 ## Deliverables
