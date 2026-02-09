@@ -25,12 +25,13 @@ make build
 
 - `make build` runs all generator scripts and writes JSON output in `data/`.
 
-## Build and test
+## Running the tests
 
-Use `make` targets from repo root:
+Make sure you have set up the virtualenv as above.
+
+From repo root:
 
 ```bash
-make build
 make test
 ```
 
