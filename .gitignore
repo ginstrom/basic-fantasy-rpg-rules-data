@@ -1,1 +1,4 @@
-manual/*.pdf
+manual/*
+.venv/
+__pycache__/
+*.pyc
