@@ -6,12 +6,12 @@ Extract core tabular rule data into normalized JSON files.
 
 ## Tasks
 
-- [ ] Parse equipment tables (weapons, armor, gear, vehicles).
-- [ ] Parse class level progression tables.
-- [ ] Parse saving throw tables.
-- [ ] Parse thief abilities table.
-- [ ] Parse attack bonus table.
-- [ ] Parse turning undead table.
+- [x] Parse equipment tables (weapons, armor, gear, vehicles).
+- [x] Parse class level progression tables.
+- [x] Parse saving throw tables.
+- [x] Parse thief abilities table.
+- [x] Parse attack bonus table.
+- [x] Parse turning undead table.
 
 ## Technical Notes
 
@@ -33,5 +33,5 @@ Extract core tabular rule data into normalized JSON files.
 
 ## Exit Criteria
 
-- All planned table JSON files are generated.
-- Files are valid JSON and contain non-empty records.
+- [x] All planned table JSON files are generated.
+- [x] Files are valid JSON and contain non-empty records.
