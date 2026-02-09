@@ -12,6 +12,19 @@ To generate or regenerate data from source:
 2. Open the `.odt` in LibreOffice Writer and export/save it as HTML.
 3. Place the exported HTML at `manual/Basic-Fantasy-RPG-Rules-r142.html`.
 
+## Running the code
+
+From the repository root:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+make build
+```
+
+- `make build` runs all generator scripts and writes JSON output in `data/`.
+
 ## Build and test
 
 Use `make` targets from repo root:
@@ -21,7 +34,6 @@ make build
 make test
 ```
 
-- `make build` runs all generator scripts and writes JSON output in `data/`.
 - `make test` runs extraction and data validation test scripts.
 
 ## Repository layout
