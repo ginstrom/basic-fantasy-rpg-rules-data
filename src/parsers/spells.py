@@ -8,7 +8,7 @@ from pathlib import Path
 
 from bs4 import Tag
 
-from column_splitter import elements_between
+from section_navigation import elements_between
 from extract_text import get_text, get_text_preserve_whitespace, iter_elements, load_html, table_to_rows
 
 OUTPUT_FILES = {

@@ -17,7 +17,7 @@ from pathlib import Path
 
 from bs4 import Tag
 
-from column_splitter import elements_between, find_section
+from section_navigation import elements_between, find_section
 from extract_text import (
     get_text,
     get_text_preserve_whitespace,

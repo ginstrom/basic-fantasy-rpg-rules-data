@@ -3,7 +3,7 @@
 Checks that all required Phase 2 JSON files are generated and non-empty.
 
 Run with:
-    .venv/bin/python tests/test_phase2_tables.py
+    .venv/bin/python tests/test_rules_tables.py
 """
 
 from __future__ import annotations
@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 
-from parsers.phase2_tables import OUTPUT_FILES, write_phase2_outputs
+from parsers.rules_tables import OUTPUT_FILES, write_phase2_outputs
 
 
 REQUIRED_NON_EMPTY = {

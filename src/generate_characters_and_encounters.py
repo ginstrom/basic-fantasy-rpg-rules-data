@@ -1,6 +1,6 @@
 """Generate Phase 6 outputs under data/."""
 
-from parsers.phase6_core import write_phase6_outputs
+from parsers.characters_and_encounters import write_phase6_outputs
 
 
 if __name__ == "__main__":

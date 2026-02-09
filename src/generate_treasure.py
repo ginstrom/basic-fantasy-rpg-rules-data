@@ -1,6 +1,6 @@
 """Generate Phase 5 outputs under data/."""
 
-from parsers.phase5_treasure import write_phase5_outputs
+from parsers.treasure import write_phase5_outputs
 
 
 if __name__ == "__main__":

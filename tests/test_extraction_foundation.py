@@ -12,7 +12,7 @@ Baseline metrics (Release 142 HTML export):
   - Monster stat block tables (PART 6): 200
 
 To re-run:
-    .venv/bin/python tests/test_phase1_extraction.py
+    .venv/bin/python tests/test_extraction_foundation.py
 """
 
 import sys
@@ -25,7 +25,7 @@ from extract_text import (
     iter_elements,
     is_section_header,
 )
-from column_splitter import (
+from section_navigation import (
     collect_sections,
     find_section,
     elements_between,

@@ -1,6 +1,6 @@
 """Run Phase 7 validation/cleanup/docs generation."""
 
-from parsers.phase7_validation import run_phase7
+from parsers.data_validation import run_phase7
 
 
 if __name__ == "__main__":

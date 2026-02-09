@@ -8,7 +8,7 @@ from pathlib import Path
 
 from bs4 import Tag
 
-from column_splitter import elements_between_parts
+from section_navigation import elements_between_parts
 from extract_text import (
     get_section_header_text,
     get_text,

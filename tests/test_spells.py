@@ -1,7 +1,7 @@
 """Phase 3 spell output validation.
 
 Run with:
-    .venv/bin/python tests/test_phase3_spells.py
+    .venv/bin/python tests/test_spells.py
 """
 
 from __future__ import annotations
@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 
-from parsers.phase3_spells import OUTPUT_FILES, write_phase3_outputs
+from parsers.spells import OUTPUT_FILES, write_phase3_outputs
 
 
 def main() -> int:

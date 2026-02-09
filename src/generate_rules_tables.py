@@ -1,6 +1,6 @@
 """Generate all Phase 2 JSON outputs under data/."""
 
-from parsers.phase2_tables import write_phase2_outputs
+from parsers.rules_tables import write_phase2_outputs
 
 
 if __name__ == "__main__":

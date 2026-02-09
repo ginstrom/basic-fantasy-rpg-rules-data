@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 
-from parsers.phase7_validation import DATA_README, VALIDATION_REPORT, run_phase7
+from parsers.data_validation import DATA_README, VALIDATION_REPORT, run_phase7
 
 
 def main() -> int:

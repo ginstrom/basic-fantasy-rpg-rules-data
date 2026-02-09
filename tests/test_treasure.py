@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 
-from parsers.phase5_treasure import OUTPUT_FILES, write_phase5_outputs
+from parsers.treasure import OUTPUT_FILES, write_phase5_outputs
 
 
 def main() -> int:

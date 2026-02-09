@@ -1,6 +1,6 @@
 """Generate Phase 4 monster output under data/."""
 
-from parsers.phase4_monsters import write_phase4_output
+from parsers.monsters import write_phase4_output
 
 
 if __name__ == "__main__":

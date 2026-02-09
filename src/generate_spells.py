@@ -1,6 +1,6 @@
 """Generate all Phase 3 spell JSON outputs under data/."""
 
-from parsers.phase3_spells import write_phase3_outputs
+from parsers.spells import write_phase3_outputs
 
 
 if __name__ == "__main__":

@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, "src")
 
-from parsers.phase4_monsters import OUTPUT_FILE, write_phase4_output
+from parsers.monsters import OUTPUT_FILE, write_phase4_output
 
 
 def main() -> int:
