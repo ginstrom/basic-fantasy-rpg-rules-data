@@ -1,6 +1,18 @@
 # basic-fantasy-rpg-rules-data
 
-Data in this repository is derived from the Basic Fantasy RPG manual at https://www.basicfantasy.org/
+This project contains JSON data extracted from the Basic Fantasy RPG rules manual (Release 142 HTML export).
+
+## Repository layout
+
+- `scripts/`: scripts used to generate and update extracted data from the HTML manual.
+- `data/`: generated JSON outputs.
+- `manual/`: source manual files used for extraction.
+- `src/`: parser and generation implementation.
+- `tests/`: validation tests for extraction phases.
+
+## Source
+
+Data is derived from the Basic Fantasy RPG manual at https://www.basicfantasy.org/
 
 ## License
 
