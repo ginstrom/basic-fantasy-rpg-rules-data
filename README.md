@@ -22,10 +22,6 @@ make test
 ```
 
 - `make build` runs all generator scripts and writes JSON output in `data/`.
-- `make build` also runs cleanup/normalization in phase 7:
-  - weapon section headers are converted to per-item `category` fields
-  - numeric ranges like `1-3` are normalized to integer lists
-  - comma-formatted numerics like `1,000` are normalized to integers
 - `make test` runs extraction and data validation test scripts.
 
 ## Repository layout
