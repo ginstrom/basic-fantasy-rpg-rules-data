@@ -1,7 +1,6 @@
 # basic-fantasy-rpg-rules-data
 
-Data in this repository is derived from the Basic Fantasy RPG manual in
-`manual/Basic-Fantasy-RPG-Rules-r142.pdf`.
+Data in this repository is derived from the Basic Fantasy RPG manual at https://www.basicfantasy.org/
 
 ## License
 
