@@ -28,7 +28,6 @@ make test
 
 - `scripts/`: scripts used to generate and update extracted data from the HTML manual.
 - `data/`: generated JSON outputs.
-- `manual/`: source manual files used for extraction.
 - `src/`: parser and generation implementation.
 - `tests/`: validation tests for extraction phases.
 
