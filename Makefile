@@ -16,6 +16,7 @@ build:
 test:
 	$(PYTHON) tests/test_extraction_foundation.py
 	$(PYTHON) tests/test_rules_tables.py
+	$(PYTHON) tests/test_output_cleanup.py
 	$(PYTHON) tests/test_spells.py
 	$(PYTHON) tests/test_monsters.py
 	$(PYTHON) tests/test_treasure.py

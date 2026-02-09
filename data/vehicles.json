@@ -12,17 +12,17 @@
   {
     "vehicle": "Coach",
     "length_x_width": "30' x 8'",
-    "weight": "1,000",
+    "weight": 1000,
     "cargo": "2,000 lbs",
     "movement": "40' (15')",
     "hardness_hp": "6 / 12",
-    "cost_gp": "1,500",
+    "cost_gp": 1500,
     "category": "land"
   },
   {
     "vehicle": "Wagon",
     "length_x_width": "35' x 8'",
-    "weight": "2,000",
+    "weight": 2000,
     "cargo": "4,000 lbs",
     "movement": "20' (15')",
     "hardness_hp": "6 / 16",

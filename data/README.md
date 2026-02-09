@@ -22,11 +22,13 @@ Generated structured JSON outputs from the Basic Fantasy RPG manual.
 - `treasure_types.json`: Treasure type and value tables.
 - `turning_undead.json`: Cleric turning-undead progression table.
 - `vehicles.json`: Land and water vehicle tables.
-- `weapons.json`: Weapon table.
+- `weapons.json`: Weapon table with per-item `category` values.
 - `validation_report.json`: Cross-file validation report and unresolved warnings.
 
 ## Notes
 
 - String normalization collapses OCR/layout whitespace artifacts.
+- Numeric cleanup converts comma-formatted numbers (e.g. `1,000`) to integers.
+- Numeric ranges (e.g. `1-3`) are normalized to integer lists.
 - Some files include `warnings` arrays to preserve partial/edge parses.
 - Encounter-to-monster references are validated heuristically.

@@ -672,7 +672,7 @@
       "save_as": "Fighter: 9",
       "morale": "9",
       "treasure_type": "F",
-      "xp": "1,225"
+      "xp": 1225
     },
     "description": "Chimeras are strange creatures having a lion's body with the heads of a lion, a goat, and a dragon, and the wings of a dragon. The dragon head of a chimera could be any common dragon except cloud (i.e. desert, forest, ice, mountain, plains, or sea), and has the same type of breath weapon as that sort of dragon. Regardless of type, the dragon's head breathes a 50' long cone with a 10' wide end which inflicts 3d6 points of damage; victims may save vs. Dragon Breath for one-half damage. Chimeras are cruel and voracious. They can speak Dragon but seldom bother to do so, except when toadying to more powerful creatures.",
     "description_paragraphs": [
@@ -841,7 +841,7 @@
       "save_as": "Fighter: 6",
       "morale": "7",
       "treasure_type": "None",
-      "xp": "1,575"
+      "xp": 1575
     },
     "description": "Although fearsome-looking, the stegosaurus is actually a peaceable creature and will only fight in self-defense, either biting, trampling, or using its spiked tail, depending on where the opponent is standing in relation to the dinosaur. A stegosaurus can't use its tail and bite attacks against the same creature in the same round, and cannot use either bite or tail on any round where it tramples.",
     "description_paragraphs": [
@@ -862,7 +862,7 @@
       "save_as": "Fighter: 7",
       "morale": "8",
       "treasure_type": "None",
-      "xp": "1,575"
+      "xp": 1575
     },
     "description": "A triceratops is a three-horned herbivorous dinosaur. They are aggressive toward interlopers, attacking anyone who might appear to be a threat. Individuals are quite large, weighing 11,000 to 20,000 pounds and ranging from 26 to 30 feet in length. When facing opponents of smaller size, a triceratops will usually attempt to trample them, reserving the gore attack for larger opponents. Up to two adjacent man-sized or up to four smaller opponents may be trampled simultaneously; the triceratops rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit. The gore attack may only be used against a single man-sized or larger creature, but may be used in the same round as the trample if the creature being gored is larger than man sized. Also note that a charging bonus may be applied to the gore attack.",
     "description_paragraphs": [
@@ -884,7 +884,7 @@
       "save_as": "Fighter: 18",
       "morale": "11",
       "treasure_type": "None",
-      "xp": "4,000"
+      "xp": 4000
     },
     "description": "The tyrannosaurus rex is a bipedal carnivorous dinosaur with a massive skull balanced by a long, heavy tail. Relative to its large and powerful hind limbs, its forelimbs are short but unusually powerful for their size, with two clawed digits. Despite this, they are not used to attack, as the tyrannosaur's powerful bite is its preferred weapon. Individuals can grow to lengths of over 40 feet and can weigh up to 20,000 pounds, though most are a bit smaller than this, averaging around 35 feet in length and 17,000 pounds in weight. The statistics above can also be used to represent other large bipedal carnosaurs, such as the allosaurus.",
     "description_paragraphs": [
@@ -1004,7 +1004,7 @@
       "save_as": "Fighter: 11 (as Hit Dice)",
       "morale": "10",
       "treasure_type": "H",
-      "xp": "1,765"
+      "xp": 1765
     },
     "description": "style=\"position: absolute; top: 0in; left: 0in\" Cloud dragons have the most varied appearance of all the true dragons. In an indoor environment or when underground a cloud dragon appears to be a bright metallic color, while outdoors their coloration is brighter and less metallic, and may take on a reddish or bluish cast reminiscent of a sunrise or sunset. Hatchlings have a coppery skin tone, brightening to silver at the second age category, then to gold at the fourth before fading to a platinum tone by age category 6. While most true dragons become duller in color and sheen as they age, cloud dragons do not. Cloud dragons are not cruel and do not seek to kill for pleasure. Many tales are told of cloud dragons offering assistance to adventurers, though they are every bit as avaricious as any dragon; adventurers in need of gold need not bother asking for a loan. Another way in which cloud dragons differ from other types is that they do not have fixed breath weapons. Upon reaching the second age category, a cloud dragon acquires the breath weapon of a randomly-chosen (or GM assigned) dragon type; upon reaching the fourth age category, they acquire a second breath weapon type. Cloud dragons possess the same immunities as the dragons whose breath weapons they reproduce. All cloud dragons have the power to assume the form of any type of humanoid (as described in the spell charm person) at will in a manner otherwise equivalent to the spell polymorph self.",
     "description_paragraphs": [
@@ -1200,7 +1200,7 @@
       "save_as": "Fighter: 9 (as Hit Dice)",
       "morale": "9",
       "treasure_type": "H",
-      "xp": "1,225"
+      "xp": 1225
     },
     "description": "Desert dragons have rough, gritty-feeling hide which is a dark steel blue color with a smoother, streaky brown underbelly. Their bodies are wiry and serpentine. They hunt by day in the heat of the sun, sometimes flying high overhead looking for prey, or sometimes choosing to bury themselves in the sand and lie in wait with only eyes and nostrils exposed. One will wait in this fashion until victims come within 100 feet, then spring out and attack (surprising on a roll of 1-4 on 1d6 in this case). A desert dragon will usually choose to lair in an underground cavern, or perhaps in a ruined castle or desert outpost. They are evil monsters, though not so fierce as mountain dragons. They particularly enjoy tricking intelligent prey into entering their lairs or passing by their hiding places to be ambushed and killed; usually one member of a party attacked by a desert dragon will be left alive for a while, and the dragon will play with that person as a cat plays with a mouse. Desert dragons are immune to normal lightning, and suffer only half damage from magical lightning.",
     "description_paragraphs": [
@@ -1376,7 +1376,7 @@
       "save_as": "Fighter: 8 (as Hit Dice)",
       "morale": "8",
       "treasure_type": "H",
-      "xp": "1,015"
+      "xp": 1015
     },
     "description": "Forest dragons are bright leaf green in color, with a tan underbelly. They have long sinuous bodies and move with catlike grace. They are cruel monsters, but they are renowned for their curiosity. They especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby. Adventurers may be allowed to live so long as they remain interesting… but woe to them when the dragon becomes bored. Forest dragons are immune to all poisons. Note that, despite their breath weapon being described as \"poison gas,\" damage done by it is exactly the same as with other dragons. More specifically, those in the area of effect do not have to \"save or die\" as with ordinary poison, but rather save vs. Dragon Breath for half damage.",
     "description_paragraphs": [
@@ -1716,7 +1716,7 @@
       "save_as": "Fighter: 10 (as Hit Dice)",
       "morale": "8",
       "treasure_type": "H",
-      "xp": "1,480"
+      "xp": 1480
     },
     "description": "Mountain dragons are red in color, ranging from the brilliant blood red of a hatchling to the dull terracotta color of an ancient individual. These dragons are powerfully built, with heavy-jawed heads and thick muscular bodies, yet their necks are still long enough to give them the legendary flexibility of a true dragon. They are cruel monsters, actively seeking to hunt, torment, kill and consume intelligent creatures. They are often said to prefer women and elves, but in truth a mountain dragon will attack almost any creature less powerful than itself. They are intelligent and self-assured, but also impatient and overconfident. One will often plan strategies in advance and then choose one at random when facing unknown opponents, without regard to whether or not the strategy is likely to work. The sheer power of a mountain dragon is often the only reason one is still alive. Mountain dragons are immune to normal fire, and suffer only half damage from magical fire.",
     "description_paragraphs": [
@@ -2067,7 +2067,7 @@
       "save_as": "Fighter: 8 (as Hit Dice)",
       "morale": "8",
       "treasure_type": "H",
-      "xp": "1,015"
+      "xp": 1015
     },
     "description": "Young sea dragons are light bluish-gray in color (similar to dolphins), darkening to a deep slate color in older individuals. Their skin is smooth and sleek, and their bodies are more compact than most dragons, though their long neck gives them the same flexibility. Though they live in the water and are somewhat adapted to it, sea dragons still must breathe air, similar to dolphins or whales. A sea dragon may hold its breath up to three turns while swimming or performing other moderate activity. These dragons have much the same physical structure as other dragons, but their feet are webbed and their tails are short, flat and broad; these adaptations help the sea dragon swim efficiently, but severely limit their ability to walk on dry land. Unlike other dragons, sea dragons do not have a tail attack. The breath weapon of a sea dragon is a cloud of steam; they are immune to damage from non-magical steam (including the breath weapon of another sea dragon), and suffer only half damage from magical steam attacks. Sea dragons are neutral in outlook, in much the same way as ice dragons. They often maintain lairs in air-filled undersea caverns.",
     "description_paragraphs": [
@@ -2247,7 +2247,7 @@
       "save_as": "Fighter: 20 at +5",
       "morale": "10",
       "treasure_type": "H (calculated at one-quarter hit dice)",
-      "xp": "13,650"
+      "xp": 13650
     },
     "description": "Dragon turtles are so large, up to 200 feet long, that they are occasionally mistaken for rocky outcroppings or even small islands. Though they are not true dragons, they do advance through the same sort of age categories as the true dragons do; however, each age category changes the dragon turtle's Hit Dice by 5. style=\"position: absolute; top: 0in; left: 0in\" Due to their massive size, dragon turtles are immune to virtually all poisons.",
     "description_paragraphs": [
@@ -2458,7 +2458,7 @@
       "save_as": "Fighter: 15",
       "morale": "12 (9)",
       "treasure_type": "None",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "Efreet (singular efreeti) are a race of manlike creatures believed to be from the Elemental Plane of Fire. They are large beings, 11 to 12 feet in height and weighing around 2,000 pounds, though their weight is generally immaterial due to their ability to fly by magical means. Note that the 12 morale reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the \"9\" figure to determine whether an outmatched efreeti decides to leave a combat. Efreet have a number of magical powers, which can be used at will (that is, without needing magic words or gestures): become invisible, with unlimited uses per day; assume gaseous form, as the potion, up to one hour per day; create illusions, as the spell phantasmal force but including sound as well as visual elements, three times per day; create flame, with unlimited uses; and create a wall of fire (as the spell), once per day. Create flame allows the efreet to cause a flame to appear in its hand or otherwise on its person at will; it behaves as desired by the efreet, becoming as large as a torch flame or as small as a candle, and ignites flammable material just as any ordinary flame does. The flame can be thrown as a weapon with a range of up to 60', causing 1d8 points of damage on a successful hit. The efreet can create another flame, and throw it as well if desired, once per round. Efreet may assume the form of a column of fire at will, with no limit as to the number of times per day this power may be used; an efreeti in flame-form fights as if it were a fire elemental. Due to their highly magical nature, efreet cannot be harmed by non-magical weapons. They are immune to normal fire, and suffer only half damage from magical fire attacks.",
     "description_paragraphs": [
@@ -2911,7 +2911,7 @@
       "save_as": "Fighter: 10",
       "morale": "10",
       "treasure_type": "E, N, O",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "A ghost is the soul or spirit of a deceased sentient creature that has for some reason remained on the material plane. They usually appear as they did in life, but sometimes the appearance of a ghost is altered by its original personality; for instance, the ghost of an angry person might have a threatening or even demonic visage. Ghosts are undead, and as such are immune to sleep, charm, and hold magic. Seeing a ghost is so terrible that any living creature who does so must save vs. Spells or flee for 2d6 rounds. Anyone who successfully makes this save may not be so affected by that ghost again. A ghost that hits a living target with its touch attack does 1d8 points of damage, and at the same time regenerates the same number of hit points. In addition, the victim loses 1 Constitution point. Elves and dwarves (and other long-lived creatures such as dragons) are allowed a saving throw vs. Death Ray to resist this effect, which must be rolled on each hit. Characters who lose Constitution appear to have aged. If a ghost is fighting a living creature which does not have a Constitution score, the GM should assign whatever score they see fit. Like most incorporeal creatures, ghosts may normally be hit only by magical weapons. However, if a ghost makes use of its touch attack, it becomes vulnerable to non-magical weapons until the beginning of the next round of combat. Lost Constitution can be regained at a rate of one point per casting of restoration; nothing else (except a wish) can restore Constitution lost to a ghost. If a character's Constitution falls to 0, they die permanently and cannot be raised (but still may be reincarnated). Once per turn, a ghost can use telekinesis (as the spell) as if it were a 10th level Magic-User. Instead of attacking, a ghost may attempt to possess a living creature. This ability is similar to a magic jar spell (as if cast by a 10th level Magic-User), except that it does not require a receptacle. To use this ability, the ghost must be able to move into the target (so it is possible to avoid this attack by outrunning the ghost). The target can resist the attack with a successful save vs. Spells. A creature that successfully saves is immune to being possessed by that ghost for 24 hours. If the save fails, the ghost enters the target's body and controls it; control may be maintained until the ghost chooses to leave the victim's body, or until it is driven out by means of a remove curse or dispel evil spell. While it is possessing a living creature, a ghost may not use any of its special abilities.",
     "description_paragraphs": [
@@ -2967,7 +2967,7 @@
       "save_as": "Fighter: 12",
       "morale": "10",
       "treasure_type": "E + 1d12x1,000 gp",
-      "xp": "1,975"
+      "xp": 1975
     },
     "description": "Cloud giants are huge, with males averaging 18 feet tall and females 17 feet tall; an adult cloud giant will normally weigh more than 4,750 pounds. They have very pale skin, sometimes with a slight bluish tint, and their hair is bright metallic colors such as silver, brass, or even gold. They have long lives, with most surviving to 400 years barring disease or misadventure. Cloud giants are often vain, convinced they are the highest form of creation. They wear the finest clothing, make and eat the best food and drink, and live in castles built on high mountains or even in the clouds themselves. Like most giants, they are suspicious of the smaller races, but cloud giants do not usually prey upon them, preferring instead to demand tribute from smaller humanoids living nearby. Despite being self-centered, they fight in highly trained units that use sound tactics; their belief in their own superiority allows no less. Attacking from above is preferred, and ranged attacks are always considered better than melee. To that end, cloud giants can throw large stones up to 200' for 3d6 points of damage each. Also, 5% of cloud giants have the abilities of a Magic-User of level 2 to 8 (2d4). A favorite tactic is to encircle enemies, barraging them with rocks while the giants with magical abilities confound them with spells. In battle, cloud giants wear finely crafted, intricately engraved plate mail.",
     "description_paragraphs": [
@@ -2990,7 +2990,7 @@
       "save_as": "Fighter: 13",
       "morale": "9",
       "treasure_type": "E + 1d8x1,000 gp",
-      "xp": "2,285"
+      "xp": 2285
     },
     "description": "A cyclops is a one-eyed giant. Huge and brutish, they most resemble hill giants, and even dress in the same \"style,\" layers of crudely prepared hides with the fur left on, unwashed and unrepaired. They are reclusive and unfriendly to almost all of the smaller races. A cyclops can throw a large rock up to 200' for 3d6 points of damage, but they aim poorly and thus suffer an attack penalty of -2. Once per year, a cyclops can cast the spell bestow curse (the reverse of the spell remove curse).",
     "description_paragraphs": [
@@ -3012,7 +3012,7 @@
       "save_as": "Fighter: 11",
       "morale": "9",
       "treasure_type": "E + 1d10x1,000 gp",
-      "xp": "1,670"
+      "xp": 1670
     },
     "description": "Despite their great size, fire giants have a Dwarf-like appearance, being barrel-chested with thick arms and legs; average males stand 14 feet tall and weigh around 3,200 pounds, while females average 13 feet tall and around 3,000 pounds. Their skin is ruddy, their hair is black, and their eyes are a very dark red that is almost black (and looks that color in poor lighting). Fire giants are unfriendly to almost all other humanoid races, though they sometimes subjugate those living nearby to act as their servants. In combat they favor heavy plate steel armor (the first AC given above) made of steel blackened by quenching in oil. They arm themselves with massive weapons made of the same material. A fire giant can throw large stones up to 200' for 3d6 points of damage. Fire giants are immune to all fire-based attacks.",
     "description_paragraphs": [
@@ -3035,7 +3035,7 @@
       "save_as": "Fighter: 10",
       "morale": "9",
       "treasure_type": "E + 1d10x1,000 gp",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "Frost giants have pale, almost white skin, blonde or pale blue hair, and bright blue eyes. Average males stand 15 feet tall and weigh around 2,800 pounds, while females average 14 feet tall and 2,500 pounds. Frost giants are, first and foremost, cunning. They dislike the smaller races as much as any giant, but rather than attacking outright they will try to use their advantages to convince those weaker than them to submit. If faced with a stronger force, frost giants will parley or withdraw if possible, attacking only if victory seems assured. In combat frost giants prefer brightly-polished steel chainmail worn over their customary clothing of leather and fur (the first AC given above), and weapons of the same material. A frost giant can throw large stones up to 200' for 3d6 points of damage. Frost giants are immune to all ice or cold-based attacks.",
     "description_paragraphs": [
@@ -3080,7 +3080,7 @@
       "save_as": "Fighter: 16",
       "morale": "10",
       "treasure_type": "E + 1d12x1,000 gp",
-      "xp": "3,250"
+      "xp": 3250
     },
     "description": "Mountain giants are the largest of all giants, with adult males averaging 24 feet in height and weighing around 16,000 pounds. Females are slightly smaller, standing 22 feet tall on the average and weighing around 14,000 pounds. They look very much like enormous, thickly built hill giants, and among humans they are often seen as little more than that. This is underselling the mountain giants, however, for though their crafting is primitive they have an intricately detailed social structure. Mountain giants live in clans, led by the oldest male and female (or by their oldest offspring if the elders choose to delegate leadership due to advanced age). Each clan rules over and controls a group of 1d6 mountain peaks, generally spanning an area with a 5-6 mile diameter. They prefer peaks connected by high ridges so that they do not have to descend too far when walking their territory. Clan members who are mated establish households within the territory; unmarried members typically live with their parents until they are wed. The \"lair\" encounter figures above are for a single household, but if one household is attacked and the attackers subsequently retreat, upon their return they will usually find much of the rest of the clan waiting for them in ambush. They wear armor made of wood held together with heavy rope, and wield giant clubs or staves carved from fully grown trees harvested from the lower reaches of their territory. If they live near storm giants, they may trade for better weapons (the second damage rating given above) but usually cannot afford storm giant armor. A mountain giant can throw large stones up to 240' for 4d6 points of damage each.",
     "description_paragraphs": [
@@ -3104,7 +3104,7 @@
       "save_as": "Fighter: 9",
       "morale": "9",
       "treasure_type": "E + 1d8x1,000 gp",
-      "xp": "1,075"
+      "xp": 1075
     },
     "description": "Stone giants are not the largest of giants, but with an average adult standing 12 feet tall and weighing roughly 1,500 pounds they are still formidable. There is no substantial difference in height between males and females. They usually dress in heavy leather clothing with sections having been boiled to stiffen them; these outfits serve as armor and give them the first AC above. Stone giants are reclusive, but they will defend their territory (typically in rocky mountainous terrain) against any who trespass therein. A stone giant can throw large stones up to 300' for 3d6 points of damage. They will fight in groups to defend their territory but use only simple, basic tactics and strategy.",
     "description_paragraphs": [
@@ -3126,7 +3126,7 @@
       "save_as": "Fighter: 15",
       "morale": "10",
       "treasure_type": "E + 1d20x1,000 gp",
-      "xp": "3,100"
+      "xp": 3100
     },
     "description": "Storm giants are nearly the largest of the giants, with adult males standing 21 feet tall and weighing around 12,000 pounds; adult females average 20 feet and typically weigh around 11,000 pounds. Most storm giants have pale skin and dark hair, but some individuals have skin of a lavender color, and some have pale white or silver hair. Their eyes range from bright blue to deep gray in color. They prefer to dress in light clothing, such as tunics, sandals, and so on, but in battle they wear finely-crafted plate mail armor of bright metal and wield weapons of the same sort. Their equipment usually appears to be silver but those of the highest class or rank wear armor and bear arms of a bright and shining golden color. Unlike most other giants, storm giants have been known to befriend humans, elves, or dwarves. Storm giants have the ability to throw lightning bolts as if they were spears (which work just as the spell does, and can be used once per five rounds; a save vs. Spells reduces damage to half). They prefer to attack first with lightning before moving on to other attack forms. Not surprisingly, storm giants are resistant to all forms of lightning or electrical attack, suffering only half damage normal when so attacked. Also note that 10% of storm giants have the abilities of a Magic-User of level 2 to 12 (2d6).",
     "description_paragraphs": [
@@ -3191,7 +3191,9 @@
     "name": "Goblin",
     "stat_block": {
       "armor_class": "14 (11)",
-      "hit_dice": "1-1",
+      "hit_dice": [
+        1
+      ],
       "no_of_attacks": "1 weapon",
       "damage": "1d6 or by weapon",
       "movement": "20' Unarmored 30'",
@@ -3243,7 +3245,7 @@
       "save_as": "Fighter: 5",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "Amber golems are generally built to resemble lions or other great cats. They are able to detect invisible creatures or objects within 60', and can track with 95% accuracy through any terrain type. A magical attack that deals electricity damage heals 1 point of damage for every 3 full points of damage the attack would otherwise deal. For example, an amber golem hit by a lightning bolt for 20 points of damage is instead healed up to 6 points. If the amount of healing would cause the golem to exceed its full normal hit points, the excess is ignored.",
     "description_paragraphs": [
@@ -3287,7 +3289,7 @@
       "save_as": "Fighter:10",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "5,650"
+      "xp": 5650
     },
     "description": "These golems resemble statues made of bronze; unlike natural bronze statues, they never turn green from verdigris. A bronze golem is 10 feet tall and weighs about 4,500 pounds. A bronze golem cannot speak or make any vocal noise, nor does it have any distinguishable odor. It moves with a ponderous but smooth gait. Each step causes the floor to tremble unless it is on a thick, solid foundation. The interior of a bronze golem is molten metal. Creatures hit by one in combat suffer an additional 1d10 points of damage from the heat (unless resistant to heat or fire). If one is hit in combat, molten metal spurts out, spraying the attacker for 2d6 damage. A save vs. Death Ray is allowed to avoid the metal spray.",
     "description_paragraphs": [
@@ -3309,7 +3311,7 @@
       "save_as": "Fighter: 6",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "1,765"
+      "xp": 1765
     },
     "description": "Clay golems are made of clay, naturally, and thus may be any natural clay color; generally, one will be grayish in color, but common clay containing iron oxide may be used which results in a red, brown, or even orange clay golem. They are usually unclad, but some golem-makers choose to put a leather belt, girdle, or apron on their creation. A clay golem weighs about 600 pounds. Wounds inflicted by a clay golem do not heal normally; worse, magical healing cures only 1 point per die rolled (but add all bonuses normally). Thus, a cure light wounds spell heals just 2 points.",
     "description_paragraphs": [
@@ -3331,7 +3333,7 @@
       "save_as": "Fighter: 5",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "1,225"
+      "xp": 1225
     },
     "description": "Flesh golems are horrible creations made of body parts from deceased humanoids (including all character races as well as humanoid monsters), crudely stitched together and animated by magic. A flesh golem is 8 feet tall and weighs about 450 pounds. A magical attack that deals cold or fire damage slows a flesh golem (as the reverse of the haste spell) for 2d6 rounds, with no saving throw. Attacks using lightning or electricity heal 1 point of damage per every 3 points the attack would normally inflict, rounded down; further, such an attack breaks any ongoing slow effect on the golem. As usual, healing will not increase the monster above its normal hit points. For example, a flesh golem hit by a lightning bolt which should deal 14 points of damage instead receives up to 4 points of healing.",
     "description_paragraphs": [
@@ -3353,7 +3355,7 @@
       "save_as": "Fighter: 9",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "3,890"
+      "xp": 3890
     },
     "description": "Iron golems are huge, generally 11 to 12 feet in height with a weight of 4,500 to 5,500 pounds. Such golems are usually fashioned like statues, and may appear to be wearing armor and armed with a shortsword or mace; the sculpting will often be simpler and cruder than that done by a real sculptor. Though an iron golem has no voice, it is hardly silent when in motion, as its gentlest footstep on any hard surface shakes the floor and walls. Note that, while an iron golem has little if any odor normally, when wet they have a strong metallic smell detectable up to 60 feet away. Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round. Those within the area of effect must save vs. Dragon Breath or die. This ability can be used up to 3 times per day. A magical attack that deals lightning or electrical damage slows an iron golem (as the reverse of the haste spell) for 1d6 rounds, with no saving throw. Attacks using fire heal 1 point of damage per every 3 points the attack would normally inflict, rounded down; further, such an attack breaks any ongoing slow effect on the golem. As usual, healing will not increase the monster above its normal hit points. For example, an iron golem hit by a fireball which should deal 17 points of damage instead receives up to 5 points of healing. An iron golem is affected by rust attacks such as that of a rust monster, suffering 2d6 points of damage for each hit (with no saving throw normally allowed).",
     "description_paragraphs": [
@@ -3376,7 +3378,7 @@
       "save_as": "Fighter: 7",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "2,730"
+      "xp": 2730
     },
     "description": "Stone golems are quite large, normally being about 8 to 10 feet in height with a weight of around 2,000 pounds. These golems are usually fashioned like statues, and may appear to be wearing armor and armed with a shortsword or mace; the sculpting will often be simpler and cruder than that done by a real sculptor. Once every other round a stone golem has the ability to cast a slow effect, as the reverse of the haste spell; a save vs. Spells is allowed to resist. This effect lasts for 2d6 rounds and has an effective range of just 10 feet. A stone to flesh spell may be used to weaken the monster. The spell does not actually change the golem’s structure, but for one full round after being affected, the golem is vulnerable to normal weapons. The stone golem is allowed a save vs. Spells to resist this effect.",
     "description_paragraphs": [
@@ -3779,7 +3781,7 @@
       "save_as": "Fighter: 10",
       "morale": "12",
       "treasure_type": "None",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "Black jellies are non-intelligent creatures made of ooze, which will attack any creatures they encounter, sensing them by their warmth and possibly scent. The entire body of one exudes acid, which is the source of the damage their attacks cause, and they fight by extending pseudopods to strike at their prey. If attacked with normal or magical weapons, or with lightning or electricity, a black jelly suffers no injury, but will be split into two jellies; the GM should divide the original creature's hit dice between the two however they see fit, with the limitation that neither jelly may have less than two hit dice. A two hit die black jelly is simply unharmed by such attacks, but cannot be split further. Cold or ice based attacks do not harm a black jelly, but such an attack will paralyze the jelly for one round per die of damage the attack would normally cause. Other attack forms will affect a black jelly normally; the preferred method of killing one usually involves fire. The typical black jelly measures 10 feet across and 2 feet thick, and weighs about 10,000 pounds. Black jellies of smaller sizes may be encountered, possibly as a result of the splitting described above.",
     "description_paragraphs": [
@@ -4979,7 +4981,7 @@
       "save_as": "Fighter: 12",
       "morale": "9",
       "treasure_type": "E",
-      "xp": "1,975"
+      "xp": 1975
     },
     "description": "Frost salamanders come from the Elemental Plane of Water. They look like giant lizards with six legs. Their scales are the colors of ice, white, pale gray and pale blue. Frost salamanders are very cold, and all non-cold-resistant creatures within 20' suffer 1d8 points of damage per round from the cold. Frost salamanders are completely immune to all types of cold-based attacks. They are quite intelligent; all speak the language of the Plane of Water, and many also speak Common, Elvish, and/or Dragon. Flame and frost salamanders hate each other, and each type will attack the other on sight, in preference over any other foe. If summoned by a Magic-User, a salamander is often assigned to protect a location, doorway, or treasure hoard; in such a case, the salamander will attack anyone attempting to gain unauthorized access to the protected area. Those which arrive through natural rifts may have any goals or motivations the GM wishes, and thus may choose to parley, fight, or even ignore adventurers.",
     "description_paragraphs": [
@@ -5001,7 +5003,7 @@
       "save_as": "Fighter: 10",
       "morale": "8",
       "treasure_type": "E",
-      "xp": "1,390"
+      "xp": 1390
     },
     "description": "Lightning Salamanders come from the Elemental Plane of Air. A lightning salamander resembles a giant snake more than 12 feet long with two dragon-like heads (on short but flexible necks). Its scales are all the colors of lightning: white, blue, purple, and yellow. A lightning salamander constantly emits little bolts of lightning; all creatures within 20 feet of the salamander that are not lightning-resistant suffer 1d8 points of damage per round. A lightning salamander is immune to damage from any type of electrical or lightning attack. It is intelligent and can speak the language of the Plane of Air, and many will also know Elvish, Common, and/or Dragon. Despite having two heads a lightning salamander has only one mind; either head may speak or both may, but it is very rare to meet a lightning salamander who can speak different words with each head at the same time (although those who can are known to sing duets with themselves, which may give away one's location to those listening).",
     "description_paragraphs": [
@@ -5556,7 +5558,7 @@
       "save_as": "Fighter: 8",
       "morale": "7",
       "treasure_type": "None",
-      "xp": "1,875"
+      "xp": 1875
     },
     "description": "A titanothere is a huge prehistoric animal that resembles the rhinoceros; adults average 10' tall and 13' long. They have large, forked horns rather than the pointed horns of rhinos. Like rhinos, they are herd animals, and males aggressively defend the herd; females only enter combat if all males are defeated or the attackers are very numerous. If a single titanothere is encountered, it will be a rogue male; they are bad tempered and prone to attacking smaller creatures that enter their territory.",
     "description_paragraphs": [
@@ -5840,7 +5842,7 @@
       "save_as": "Fighter: 6",
       "morale": "8",
       "treasure_type": "Special",
-      "xp": "1,875"
+      "xp": 1875
     },
     "description": "Narwhals are aquatic mammals resembling large dolphins with a single (or rarely, double) tusk protruding straight forward from the mouth. The tusk is helical in shape, and they are sometimes cut short and sold as \"unicorn horns.\" However, they have no particular magical value. Narwhals are found in cold northern seas. They are not particularly aggressive.",
     "description_paragraphs": [
@@ -5861,7 +5863,7 @@
       "save_as": "Fighter: 8",
       "morale": "7",
       "treasure_type": "None",
-      "xp": "17,850"
+      "xp": 17850
     },
     "description": "Sperm whales are huge creatures, with males averaging 52 feet long at adulthood while females typically reach a length of around 36 feet. They are predators, hunting primarily giant squid. Sperm whales can emit an invisible focused beam of sound 5' wide up to a 50' range underwater. This blast of sound disorients target creatures, leaving them effectively stunned for 1d4 rounds. A stunned character can neither move nor take action for the indicated duration. No attack roll is required, but a save vs. Death Ray is allowed to resist. A sperm whale can emit as many such blasts of sound as it desires, once per round, instead of biting.",
     "description_paragraphs": [
