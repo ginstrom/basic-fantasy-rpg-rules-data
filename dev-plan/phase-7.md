@@ -6,10 +6,10 @@ Validate cross-file consistency, clean extraction artifacts, and finalize docume
 
 ## Tasks
 
-- [ ] Run cross-reference validation checks.
-- [ ] Perform spell-check and text cleanup for extraction artifacts.
-- [ ] Enforce consistent formatting and normalization.
-- [ ] Generate `data/README.md` with schema and file descriptions.
+- [x] Run cross-reference validation checks.
+- [x] Perform spell-check and text cleanup for extraction artifacts.
+- [x] Enforce consistent formatting and normalization.
+- [x] Generate `data/README.md` with schema and file descriptions.
 
 ## Validation Scope
 
@@ -26,6 +26,6 @@ Validate cross-file consistency, clean extraction artifacts, and finalize docume
 
 ## Exit Criteria
 
-- No unresolved critical cross-reference failures.
-- Non-critical warnings are documented with follow-up notes.
-- Data set is ready for downstream app/VTT usage.
+- [x] No unresolved critical cross-reference failures.
+- [x] Non-critical warnings are documented with follow-up notes.
+- [x] Data set is ready for downstream app/VTT usage.

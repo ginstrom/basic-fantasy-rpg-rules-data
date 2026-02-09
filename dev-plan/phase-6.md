@@ -6,11 +6,11 @@ Complete remaining core content domains: races, classes, encounter tables, and c
 
 ## Tasks
 
-- [ ] Parse race data.
-- [ ] Parse class descriptions.
-- [ ] Parse dungeon encounter tables.
-- [ ] Parse wilderness encounter tables.
-- [ ] Parse combat reference tables.
+- [x] Parse race data.
+- [x] Parse class descriptions.
+- [x] Parse dungeon encounter tables.
+- [x] Parse wilderness encounter tables.
+- [x] Parse combat reference tables.
 
 ## Technical Notes
 
@@ -27,5 +27,5 @@ Complete remaining core content domains: races, classes, encounter tables, and c
 
 ## Exit Criteria
 
-- All outputs are generated with expected top-level keys and row counts.
-- Encounter and combat table structures are consistent and machine-readable.
+- [x] All outputs are generated with expected top-level keys and row counts.
+- [x] Encounter and combat table structures are consistent and machine-readable.

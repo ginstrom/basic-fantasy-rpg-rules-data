@@ -6,11 +6,11 @@ Parse monster data into structured stat blocks with descriptions and special-cas
 
 ## Tasks
 
-- [ ] Parse standard single-entry stat blocks.
-- [ ] Handle multi-column variant monsters.
-- [ ] Handle dragon age tables.
-- [ ] Handle cross-reference-only entries.
-- [ ] Capture description text.
+- [x] Parse standard single-entry stat blocks.
+- [x] Handle multi-column variant monsters.
+- [x] Handle dragon age tables.
+- [x] Handle cross-reference-only entries.
+- [x] Capture description text.
 
 ## Technical Notes
 
@@ -25,6 +25,6 @@ Parse monster data into structured stat blocks with descriptions and special-cas
 
 ## Exit Criteria
 
-- Monster count is within expected range (~200+).
-- Core stat fields are present for most entries.
-- Exceptions are recorded with parse warnings.
+- [x] Monster count is within expected range (~200+).
+- [x] Core stat fields are present for most entries.
+- [x] Exceptions are recorded with parse warnings.

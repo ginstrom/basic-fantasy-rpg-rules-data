@@ -6,9 +6,9 @@ Extract treasure tables, random generation tables, and magic item descriptions.
 
 ## Tasks
 
-- [ ] Parse treasure type tables (A-T).
-- [ ] Parse random generation tables (`d%` tables).
-- [ ] Parse magic item descriptions by category.
+- [x] Parse treasure type tables (A-T).
+- [x] Parse random generation tables (`d%` tables).
+- [x] Parse magic item descriptions by category.
 
 ## Technical Notes
 
@@ -24,5 +24,5 @@ Extract treasure tables, random generation tables, and magic item descriptions.
 
 ## Exit Criteria
 
-- All three output files are generated and non-empty.
-- Table rows and item entries parse without critical structural errors.
+- [x] All three output files are generated and non-empty.
+- [x] Table rows and item entries parse without critical structural errors.
